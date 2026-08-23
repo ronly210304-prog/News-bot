@@ -27,7 +27,10 @@ jobs:
       - name: Install Korean/Emoji-safe fonts
         run: |
           sudo apt-get update -y
-          sudo apt-get install -y fonts-noto-cjk
+          sudo apt-get install -y fonts-noto-cjk fonts-nanum fontconfig
+          sudo fc-cache -f
+          echo "설치된 한국어 폰트 확인:"
+          fc-list | grep -i -E "noto sans cjk kr|nanum" || echo "경고: 한국어 폰트를 못 찾음"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
