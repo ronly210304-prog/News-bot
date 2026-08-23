@@ -49,15 +49,6 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update state [skip ci]"
-          for i in 1 2 3 4 5; do
-            if git push; then
-              echo "push 성공"
-              exit 0
-            fi
-            echo "push 실패, 원격 변경사항 받아서 재시도 ($i/5)"
-            git fetch origin main
-            git rebase origin/main || { git rebase --abort; git checkout --theirs state.json; git add state.json; git rebase --continue; }
-            sleep 3
-          done
-          echo "push 최종 실패"
-          exit 1
+          git fetch origin main
+          git merge -X ours origin/main --no-edit -m "merge: resolve concurrent state update"
+          git push origin HEAD:main
