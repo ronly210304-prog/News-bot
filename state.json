@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/grocery-outlet-insider-purchases-8-182001220.html"
+    "https://finance.yahoo.com/markets/stocks/articles/grocery-outlet-insider-purchases-8-182001220.html",
+    "https://finance.yahoo.com/markets/stocks/articles/company-just-paid-6-8-203855489.html"
   ],
   "sent_date": "2026-08-24",
-  "next_run_at": "2026-08-24T05:37:24.185992+09:00",
-  "total_sent_count": 1,
-  "last_interval_minutes": 123
+  "next_run_at": "2026-08-24T08:47:07.572234+09:00",
+  "total_sent_count": 2,
+  "last_interval_minutes": 176
 }
