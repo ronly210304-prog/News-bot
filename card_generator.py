@@ -3,6 +3,7 @@
 카드뉴스 이미지 생성 (TradingView 라이트 테마 느낌: 흰 배경 + 초록/빨강 포인트)
 """
 import os
+import subprocess
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1080, 1350  # 인스타 카드뉴스 비율 느낌
@@ -24,12 +25,67 @@ FONT_MEDIUM = os.path.join(FONT_DIR, "NotoSansCJK-Medium.ttc")
 FONT_BOLD = os.path.join(FONT_DIR, "NotoSansCJK-Bold.ttc")
 FONT_BLACK = os.path.join(FONT_DIR, "NotoSansCJK-Black.ttc")
 
+# 환경에 따라 noto-cjk 설치 경로/파일명이 다를 수 있어 후보들을 순서대로 시도한다.
+_FALLBACK_CANDIDATES = [
+    "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+    "/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc",
+    "/usr/share/fonts/truetype/noto/NotoSansCJK-Regular.ttc",
+    "/usr/share/fonts/truetype/noto/NotoSansCJKkr-Regular.otf",
+    "/usr/share/fonts/opentype/noto/NotoSansCJKkr-Regular.otf",
+    "/usr/share/fonts/truetype/nanum/NanumGothic.ttf",
+    "/usr/share/fonts/truetype/nanum/NanumGothicBold.ttf",
+]
+
+
+def _resolve_font_path(preferred):
+    """지정한 경로를 우선 시도하고, 없으면 fc-match로 시스템에 실제 설치된
+    한국어 지원 폰트를 찾아내고, 그마저 실패하면 후보 목록을 순서대로 시도한다."""
+    if preferred and os.path.exists(preferred):
+        return preferred
+
+    try:
+        result = subprocess.run(
+            ["fc-match", "-f", "%{file}", "Noto Sans CJK KR"],
+            capture_output=True, text=True, timeout=5,
+        )
+        path = result.stdout.strip()
+        if path and os.path.exists(path):
+            return path
+    except Exception:
+        pass
+
+    for cand in _FALLBACK_CANDIDATES:
+        if os.path.exists(cand):
+            return cand
+
+    raise RuntimeError(
+        "한국어 지원 폰트를 찾을 수 없습니다. 워크플로우에서 "
+        "'fonts-noto-cjk' 또는 'fonts-nanum' 패키지가 설치됐는지 확인하세요."
+    )
+
+
+_RESOLVED_CACHE = {}
+
 
 def _font(path, size):
+    if path not in _RESOLVED_CACHE:
+        try:
+            _RESOLVED_CACHE[path] = _resolve_font_path(path)
+        except RuntimeError:
+            _RESOLVED_CACHE[path] = None
+
+    resolved = _RESOLVED_CACHE[path]
+    if resolved is None:
+        # 폰트를 전혀 못 찾은 경우 Pillow 기본 폰트로라도 렌더링 (한글은 깨지지만 죽지는 않음)
+        return ImageFont.load_default(size=size)
+
     try:
-        return ImageFont.truetype(path, size, index=0)
+        return ImageFont.truetype(resolved, size, index=0)
     except Exception:
-        return ImageFont.truetype(path, size)
+        try:
+            return ImageFont.truetype(resolved, size)
+        except Exception:
+            return ImageFont.load_default(size=size)
 
 
 def _wrap_text(draw, text, font, max_width):
