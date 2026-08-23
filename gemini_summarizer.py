@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 Gemini API 호출 - 뉴스 원문을 받아 카드뉴스용 JSON(제목/중요도/요약/수혜섹터/리스크섹터)으로 변환.
-비용 절감을 위해 기본적으로 gemini-2.0-flash(경량/저가 모델) 사용, 출력 토큰도 짧게 제한.
+비용 절감을 위해 기본적으로 gemini-flash-lite-latest(경량/저가 alias) 사용, 출력 토큰도 짧게 제한.
 """
 import json
 import os
 import re
 import requests
 
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
