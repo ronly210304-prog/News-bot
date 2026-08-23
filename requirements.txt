@@ -1,4 +1,0 @@
-feedparser
-google-generativeai
-Pillow
-requests
