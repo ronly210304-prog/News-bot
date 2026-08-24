@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://finance.yahoo.com/markets/stocks/articles/grocery-outlet-insider-purchases-8-182001220.html",
-    "https://finance.yahoo.com/markets/stocks/articles/company-just-paid-6-8-203855489.html"
+    "https://finance.yahoo.com/markets/stocks/articles/company-just-paid-6-8-203855489.html",
+    "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24"
   ],
   "sent_date": "2026-08-24",
-  "next_run_at": "2026-08-24T08:47:07.572234+09:00",
-  "total_sent_count": 2,
-  "last_interval_minutes": 176
+  "next_run_at": "2026-08-24T11:05:25.568887+09:00",
+  "total_sent_count": 3,
+  "last_interval_minutes": 124
 }
