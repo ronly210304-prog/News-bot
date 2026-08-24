@@ -3,10 +3,11 @@
     "https://finance.yahoo.com/markets/stocks/articles/grocery-outlet-insider-purchases-8-182001220.html",
     "https://finance.yahoo.com/markets/stocks/articles/company-just-paid-6-8-203855489.html",
     "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24",
-    "https://www.investing.com/news/stock-market-news/data3-shares-surge-to-record-high-on-strong-aifueled-earnings-93CH-4872587"
+    "https://www.investing.com/news/stock-market-news/data3-shares-surge-to-record-high-on-strong-aifueled-earnings-93CH-4872587",
+    "https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1"
   ],
   "sent_date": "2026-08-24",
-  "next_run_at": "2026-08-24T15:28:17.536393+09:00",
-  "total_sent_count": 4,
-  "last_interval_minutes": 172
+  "next_run_at": "2026-08-24T19:27:52.050199+09:00",
+  "total_sent_count": 5,
+  "last_interval_minutes": 122
 }
