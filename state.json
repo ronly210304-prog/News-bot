@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c"
+  ],
   "sent_date": "2026-08-25",
-  "next_run_at": "2026-08-25T01:33:34.966091+09:00",
-  "total_sent_count": 7,
-  "last_interval_minutes": 128
+  "next_run_at": "2026-08-25T05:37:11.019854+09:00",
+  "total_sent_count": 8,
+  "last_interval_minutes": 166
 }
