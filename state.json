@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a"
+    "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a",
+    "https://www.investing.com/news/stock-market-news/mckesson-stock-jumps-on-225b-precision-medicine-deal-93CH-4875850"
   ],
   "sent_date": "2026-08-26",
-  "next_run_at": "2026-08-26T03:59:08.101794+09:00",
-  "total_sent_count": 14,
-  "last_interval_minutes": 168
+  "next_run_at": "2026-08-26T06:25:34.611731+09:00",
+  "total_sent_count": 15,
+  "last_interval_minutes": 125
 }
