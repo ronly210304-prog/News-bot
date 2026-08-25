@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a",
-    "https://www.investing.com/news/stock-market-news/mckesson-stock-jumps-on-225b-precision-medicine-deal-93CH-4875850"
+    "https://www.investing.com/news/stock-market-news/mckesson-stock-jumps-on-225b-precision-medicine-deal-93CH-4875850",
+    "https://www.investing.com/news/stock-market-news/southern-cross-acquisition-ii-prices-75m-ipo-on-nasdaq-432SI-4875992"
   ],
   "sent_date": "2026-08-26",
-  "next_run_at": "2026-08-26T06:25:34.611731+09:00",
-  "total_sent_count": 15,
-  "last_interval_minutes": 125
+  "next_run_at": "2026-08-26T09:42:27.538067+09:00",
+  "total_sent_count": 16,
+  "last_interval_minutes": 166
 }
