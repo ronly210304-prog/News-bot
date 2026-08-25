@@ -1,14 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c",
-    "https://www.investing.com/news/stock-market-news/target-apologizes-for-childrens-clown-halloween-costume-after-backlash-4874089",
-    "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1",
-    "https://www.investing.com/news/stock-market-news/tokio-marine-weighs-australias-suncorp-takeover-after-berkshire-takes-stake--ft-4874428",
-    "https://www.investing.com/news/stock-market-news/volex-stock-surges-on-upbeat-fiscal-2027-profit-forecast-93CH-4874613",
-    "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad"
+    "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a"
   ],
-  "sent_date": "2026-08-25",
-  "next_run_at": "2026-08-25T22:58:20.265616+09:00",
-  "total_sent_count": 13,
-  "last_interval_minutes": 164
+  "sent_date": "2026-08-26",
+  "next_run_at": "2026-08-26T03:59:08.101794+09:00",
+  "total_sent_count": 14,
+  "last_interval_minutes": 168
 }
