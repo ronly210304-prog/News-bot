@@ -1,8 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.marketwatch.com/story/i-need-to-get-out-of-my-job-can-i-leave-for-a-competitor-if-ive-signed-a-non-compete-33d3164b"
-  ],
-  "sent_date": "2026-08-27",
+  "sent_urls_today": [],
+  "sent_date": "2026-08-28",
   "next_run_at": "2026-08-27T04:59:27.450310+09:00",
   "total_sent_count": 20,
   "last_interval_minutes": 128
