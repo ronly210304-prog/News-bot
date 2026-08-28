@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
-  "sent_date": "2026-08-28",
-  "next_run_at": "2026-08-27T04:59:27.450310+09:00",
-  "total_sent_count": 20,
-  "last_interval_minutes": 128
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b"
+  ],
+  "sent_date": "2026-08-29",
+  "next_run_at": "2026-08-29T09:41:33.208523+09:00",
+  "total_sent_count": 21,
+  "last_interval_minutes": 167
 }
