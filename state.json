@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://finance.yahoo.com/healthcare/articles/patients-deadliest-cancer-finally-something-170700573.html"
+  ],
   "sent_date": "2026-08-30",
-  "next_run_at": "2026-08-30T02:25:12.632768+09:00",
-  "total_sent_count": 27,
-  "last_interval_minutes": 174
+  "next_run_at": "2026-08-30T05:22:20.259737+09:00",
+  "total_sent_count": 28,
+  "last_interval_minutes": 171
 }
