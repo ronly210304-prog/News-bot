@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/healthcare/articles/patients-deadliest-cancer-finally-something-170700573.html"
+    "https://finance.yahoo.com/healthcare/articles/patients-deadliest-cancer-finally-something-170700573.html",
+    "https://finance.yahoo.com/markets/stocks/articles/ameresco-director-joseph-sutton-buys-200501614.html"
   ],
   "sent_date": "2026-08-30",
-  "next_run_at": "2026-08-30T05:22:20.259737+09:00",
-  "total_sent_count": 28,
-  "last_interval_minutes": 171
+  "next_run_at": "2026-08-30T08:04:30.497562+09:00",
+  "total_sent_count": 29,
+  "last_interval_minutes": 153
 }
