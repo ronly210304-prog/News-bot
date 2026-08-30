@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-parabolic-sept-172000876.html"
+  ],
   "sent_date": "2026-08-31",
-  "next_run_at": "2026-08-31T02:22:31.102351+09:00",
-  "total_sent_count": 36,
-  "last_interval_minutes": 156
+  "next_run_at": "2026-08-31T05:08:10.481057+09:00",
+  "total_sent_count": 37,
+  "last_interval_minutes": 157
 }
