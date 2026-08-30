@@ -3,10 +3,11 @@
     "https://finance.yahoo.com/healthcare/articles/patients-deadliest-cancer-finally-something-170700573.html",
     "https://finance.yahoo.com/markets/stocks/articles/ameresco-director-joseph-sutton-buys-200501614.html",
     "https://finance.yahoo.com/economy/policy/articles/won-40-000-online-lost-230515126.html",
-    "https://www.investing.com/news/stock-market-news/mark-walter-insurers-face-funding-squeeze-as-affiliate-loans-mature--wsj-4882007"
+    "https://www.investing.com/news/stock-market-news/mark-walter-insurers-face-funding-squeeze-as-affiliate-loans-mature--wsj-4882007",
+    "https://www.investing.com/news/stock-market-news/wheres-the-longterm-money-in-softlines-4882012"
   ],
   "sent_date": "2026-08-30",
-  "next_run_at": "2026-08-30T13:18:26.322963+09:00",
-  "total_sent_count": 31,
-  "last_interval_minutes": 152
+  "next_run_at": "2026-08-30T16:10:25.461903+09:00",
+  "total_sent_count": 32,
+  "last_interval_minutes": 159
 }
