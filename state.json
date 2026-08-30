@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-parabolic-sept-172000876.html"
+    "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-parabolic-sept-172000876.html",
+    "https://finance.yahoo.com/healthcare/articles/roth-conversion-cost-62-old-195213072.html"
   ],
   "sent_date": "2026-08-31",
-  "next_run_at": "2026-08-31T05:08:10.481057+09:00",
-  "total_sent_count": 37,
-  "last_interval_minutes": 157
+  "next_run_at": "2026-08-31T07:39:20.364776+09:00",
+  "total_sent_count": 38,
+  "last_interval_minutes": 143
 }
