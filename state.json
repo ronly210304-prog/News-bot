@@ -4,10 +4,11 @@
     "https://finance.yahoo.com/markets/stocks/articles/ameresco-director-joseph-sutton-buys-200501614.html",
     "https://finance.yahoo.com/economy/policy/articles/won-40-000-online-lost-230515126.html",
     "https://www.investing.com/news/stock-market-news/mark-walter-insurers-face-funding-squeeze-as-affiliate-loans-mature--wsj-4882007",
-    "https://www.investing.com/news/stock-market-news/wheres-the-longterm-money-in-softlines-4882012"
+    "https://www.investing.com/news/stock-market-news/wheres-the-longterm-money-in-softlines-4882012",
+    "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-downgrades-for-sap-and-intuit-amd-lifted-to-strong-buy-4881980"
   ],
   "sent_date": "2026-08-30",
-  "next_run_at": "2026-08-30T16:10:25.461903+09:00",
-  "total_sent_count": 32,
-  "last_interval_minutes": 159
+  "next_run_at": "2026-08-30T18:33:15.932557+09:00",
+  "total_sent_count": 33,
+  "last_interval_minutes": 137
 }
