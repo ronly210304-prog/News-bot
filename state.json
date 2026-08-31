@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17"
+  ],
   "sent_date": "2026-09-01",
-  "next_run_at": "2026-09-01T01:42:30.422376+09:00",
-  "total_sent_count": 45,
-  "last_interval_minutes": 131
+  "next_run_at": "2026-09-01T04:23:22.956649+09:00",
+  "total_sent_count": 46,
+  "last_interval_minutes": 157
 }
