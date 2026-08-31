@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-parabolic-sept-172000876.html",
-    "https://finance.yahoo.com/healthcare/articles/roth-conversion-cost-62-old-195213072.html",
-    "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/",
-    "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096",
-    "https://www.investing.com/news/stock-market-news/analysistoyota-and-honda-may-get-stuck-with-the-bill-for-trumps-canada-tariffs-4882125",
-    "https://www.investing.com/news/stock-market-news/sb-energy-offered-openai-55-bln-in-warrants-to-secure-datacenter-deal--wsj-4882171",
-    "https://finance.yahoo.com/technology/ai/articles/hong-kong-selects-36-ai-093920080.html",
-    "https://finance.yahoo.com/markets/stocks/articles/dell-palo-alto-earnings-report-114518508.html",
-    "https://www.marketwatch.com/story/wall-street-banks-are-keeping-astronomical-price-targets-on-spacexs-stock-as-it-tries-to-blast-off-again-0e21a0e4"
-  ],
-  "sent_date": "2026-08-31",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-01",
   "next_run_at": "2026-09-01T01:42:30.422376+09:00",
   "total_sent_count": 45,
   "last_interval_minutes": 131
