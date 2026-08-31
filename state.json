@@ -5,10 +5,11 @@
     "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/",
     "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096",
     "https://www.investing.com/news/stock-market-news/analysistoyota-and-honda-may-get-stuck-with-the-bill-for-trumps-canada-tariffs-4882125",
-    "https://www.investing.com/news/stock-market-news/sb-energy-offered-openai-55-bln-in-warrants-to-secure-datacenter-deal--wsj-4882171"
+    "https://www.investing.com/news/stock-market-news/sb-energy-offered-openai-55-bln-in-warrants-to-secure-datacenter-deal--wsj-4882171",
+    "https://finance.yahoo.com/technology/ai/articles/hong-kong-selects-36-ai-093920080.html"
   ],
   "sent_date": "2026-08-31",
-  "next_run_at": "2026-08-31T18:42:28.576091+09:00",
-  "total_sent_count": 42,
-  "last_interval_minutes": 161
+  "next_run_at": "2026-08-31T20:55:22.211747+09:00",
+  "total_sent_count": 43,
+  "last_interval_minutes": 129
 }
