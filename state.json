@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17",
-    "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1"
+    "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1",
+    "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd"
   ],
   "sent_date": "2026-09-01",
-  "next_run_at": "2026-09-01T07:03:43.398413+09:00",
-  "total_sent_count": 47,
-  "last_interval_minutes": 152
+  "next_run_at": "2026-09-01T09:18:27.937227+09:00",
+  "total_sent_count": 48,
+  "last_interval_minutes": 122
 }
