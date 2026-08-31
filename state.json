@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-parabolic-sept-172000876.html",
     "https://finance.yahoo.com/healthcare/articles/roth-conversion-cost-62-old-195213072.html",
-    "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/"
+    "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/",
+    "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096"
   ],
   "sent_date": "2026-08-31",
-  "next_run_at": "2026-08-31T10:23:22.292437+09:00",
-  "total_sent_count": 39,
-  "last_interval_minutes": 157
+  "next_run_at": "2026-08-31T12:54:21.233924+09:00",
+  "total_sent_count": 40,
+  "last_interval_minutes": 143
 }
