@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17"
+    "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17",
+    "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1"
   ],
   "sent_date": "2026-09-01",
-  "next_run_at": "2026-09-01T04:23:22.956649+09:00",
-  "total_sent_count": 46,
-  "last_interval_minutes": 157
+  "next_run_at": "2026-09-01T07:03:43.398413+09:00",
+  "total_sent_count": 47,
+  "last_interval_minutes": 152
 }
