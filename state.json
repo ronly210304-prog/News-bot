@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/apollo-stock-falls-on-report-of-brightspeed-concerns-93CH-4884382",
     "https://www.investing.com/news/stock-market-news/mercado-pago-unfazed-by-brazil-consumer-debt-worries-as-it-expands-credit-card-business-4884487",
-    "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c"
+    "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c",
+    "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780"
   ],
   "sent_date": "2026-09-02",
-  "next_run_at": "2026-09-02T08:18:38.044183+09:00",
-  "total_sent_count": 57,
-  "last_interval_minutes": 137
+  "next_run_at": "2026-09-02T10:47:47.895877+09:00",
+  "total_sent_count": 58,
+  "last_interval_minutes": 149
 }
