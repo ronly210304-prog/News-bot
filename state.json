@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.investing.com/news/stock-market-news/apollo-stock-falls-on-report-of-brightspeed-concerns-93CH-4884382"
+  ],
   "sent_date": "2026-09-02",
-  "next_run_at": "2026-09-02T00:50:37.318634+09:00",
-  "total_sent_count": 54,
-  "last_interval_minutes": 168
+  "next_run_at": "2026-09-02T03:46:40.208023+09:00",
+  "total_sent_count": 55,
+  "last_interval_minutes": 141
 }
