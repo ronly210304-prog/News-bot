@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/apollo-stock-falls-on-report-of-brightspeed-concerns-93CH-4884382"
+    "https://www.investing.com/news/stock-market-news/apollo-stock-falls-on-report-of-brightspeed-concerns-93CH-4884382",
+    "https://www.investing.com/news/stock-market-news/mercado-pago-unfazed-by-brazil-consumer-debt-worries-as-it-expands-credit-card-business-4884487"
   ],
   "sent_date": "2026-09-02",
-  "next_run_at": "2026-09-02T03:46:40.208023+09:00",
-  "total_sent_count": 55,
-  "last_interval_minutes": 141
+  "next_run_at": "2026-09-02T05:49:49.983386+09:00",
+  "total_sent_count": 56,
+  "last_interval_minutes": 120
 }
