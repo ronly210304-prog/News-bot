@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17",
-    "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1",
-    "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd",
-    "https://www.investing.com/news/stock-market-news/boeing-engineers-union-agree-to-resume-contract-talks-on-sept-8-union-says-4883341",
-    "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-    "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096",
-    "https://www.investing.com/news/stock-market-news/187-gains-and-counting-a-new-list-of-aipicked-stocks-for-september-is-now-live-4883410",
-    "https://www.investing.com/news/stock-market-news/sb-energy-files-for-proposed-ipo-432SI-4883717",
-    "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b"
-  ],
-  "sent_date": "2026-09-01",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-02",
   "next_run_at": "2026-09-02T00:50:37.318634+09:00",
   "total_sent_count": 54,
   "last_interval_minutes": 168
