@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c",
-    "https://www.investing.com/news/stock-market-news/large-us-banks-face-rising-gsib-buffers-and-tighter-excess-capital-gs-4886596"
+    "https://www.investing.com/news/stock-market-news/large-us-banks-face-rising-gsib-buffers-and-tighter-excess-capital-gs-4886596",
+    "https://www.investing.com/news/stock-market-news/pet-food-platform-golden-pet-brands-taps-banks-for-ipo-sources-say-4886737"
   ],
   "sent_date": "2026-09-03",
-  "next_run_at": "2026-09-03T05:33:54.842497+09:00",
-  "total_sent_count": 65,
-  "last_interval_minutes": 159
+  "next_run_at": "2026-09-03T08:04:46.546682+09:00",
+  "total_sent_count": 66,
+  "last_interval_minutes": 150
 }
