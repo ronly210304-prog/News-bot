@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c"
+    "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c",
+    "https://www.investing.com/news/stock-market-news/large-us-banks-face-rising-gsib-buffers-and-tighter-excess-capital-gs-4886596"
   ],
   "sent_date": "2026-09-03",
-  "next_run_at": "2026-09-03T02:36:14.339807+09:00",
-  "total_sent_count": 64,
-  "last_interval_minutes": 129
+  "next_run_at": "2026-09-03T05:33:54.842497+09:00",
+  "total_sent_count": 65,
+  "last_interval_minutes": 159
 }
