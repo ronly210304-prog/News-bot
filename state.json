@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c"
+  ],
   "sent_date": "2026-09-03",
-  "next_run_at": "2026-09-03T00:09:08.604751+09:00",
-  "total_sent_count": 63,
-  "last_interval_minutes": 160
+  "next_run_at": "2026-09-03T02:36:14.339807+09:00",
+  "total_sent_count": 64,
+  "last_interval_minutes": 129
 }
