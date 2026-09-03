@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c"
+  ],
   "sent_date": "2026-09-04",
-  "next_run_at": "2026-09-04T00:46:55.097598+09:00",
-  "total_sent_count": 72,
-  "last_interval_minutes": 132
+  "next_run_at": "2026-09-04T02:53:51.805014+09:00",
+  "total_sent_count": 73,
+  "last_interval_minutes": 125
 }
