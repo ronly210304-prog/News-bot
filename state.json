@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c"
+    "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c",
+    "https://www.marketwatch.com/story/this-presidential-bet-offers-free-money-f0038409"
   ],
   "sent_date": "2026-09-04",
-  "next_run_at": "2026-09-04T02:53:51.805014+09:00",
-  "total_sent_count": 73,
-  "last_interval_minutes": 125
+  "next_run_at": "2026-09-04T05:36:54.263998+09:00",
+  "total_sent_count": 74,
+  "last_interval_minutes": 155
 }
