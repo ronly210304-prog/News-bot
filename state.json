@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c",
     "https://www.marketwatch.com/story/this-presidential-bet-offers-free-money-f0038409",
-    "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a"
+    "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a",
+    "https://www.investing.com/news/stock-market-news/adobe-names-anil-chakravarthy-as-ceo-4888560"
   ],
   "sent_date": "2026-09-04",
-  "next_run_at": "2026-09-04T07:59:02.038915+09:00",
-  "total_sent_count": 75,
-  "last_interval_minutes": 132
+  "next_run_at": "2026-09-04T10:49:37.960108+09:00",
+  "total_sent_count": 76,
+  "last_interval_minutes": 168
 }
