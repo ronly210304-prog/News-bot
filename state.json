@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.investing.com/news/stock-market-news/tesla-klac-among-market-cap-stock-movers-on-friday-93CH-4889917"
+  ],
   "sent_date": "2026-09-05",
-  "next_run_at": "2026-09-04T20:54:17.746820+09:00",
-  "total_sent_count": 80,
-  "last_interval_minutes": 151
+  "next_run_at": "2026-09-05T05:41:32.626718+09:00",
+  "total_sent_count": 81,
+  "last_interval_minutes": 138
 }
