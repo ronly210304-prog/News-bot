@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/tesla-klac-among-market-cap-stock-movers-on-friday-93CH-4889917"
+    "https://www.investing.com/news/stock-market-news/tesla-klac-among-market-cap-stock-movers-on-friday-93CH-4889917",
+    "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-051-4890007"
   ],
   "sent_date": "2026-09-05",
-  "next_run_at": "2026-09-05T05:41:32.626718+09:00",
-  "total_sent_count": 81,
-  "last_interval_minutes": 138
+  "next_run_at": "2026-09-05T08:07:21.533070+09:00",
+  "total_sent_count": 82,
+  "last_interval_minutes": 141
 }
