@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/tesla-klac-among-market-cap-stock-movers-on-friday-93CH-4889917",
-    "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-051-4890007",
-    "https://www.investing.com/news/stock-market-news/starbucks-antiunionization-case-brought-by-nlrb-narrowed-by-usappeals-court-4889935",
-    "https://www.investing.com/news/stock-market-news/ai-hiring-boom-could-turn-into-a-surprise-tailwind-for-software-bernstein-4890132",
-    "https://www.investing.com/news/stock-market-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-4890157",
-    "https://www.investing.com/news/stock-market-news/howmets-spacex-threat-looks-more-like-a-buying-opportunity-bernstein-4890156",
-    "https://www.investing.com/news/stock-market-news/barclays-sees-a-36-trillion-annual-investment-opportunity-in-this-sector-4890178",
-    "https://www.investing.com/news/stock-market-news/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-4890181",
-    "https://finance.yahoo.com/energy/articles/top-nuclear-stock-buy-now-131200560.html"
-  ],
-  "sent_date": "2026-09-05",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-06",
   "next_run_at": "2026-09-06T01:23:35.136301+09:00",
   "total_sent_count": 89,
   "last_interval_minutes": 172
