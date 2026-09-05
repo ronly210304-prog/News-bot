@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-stock-down-55-162200647.html"
+  ],
   "sent_date": "2026-09-06",
-  "next_run_at": "2026-09-06T01:23:35.136301+09:00",
-  "total_sent_count": 89,
-  "last_interval_minutes": 172
+  "next_run_at": "2026-09-06T03:46:42.368248+09:00",
+  "total_sent_count": 90,
+  "last_interval_minutes": 133
 }
