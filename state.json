@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-stock-down-55-162200647.html"
+    "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-stock-down-55-162200647.html",
+    "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4"
   ],
   "sent_date": "2026-09-06",
-  "next_run_at": "2026-09-06T03:46:42.368248+09:00",
-  "total_sent_count": 90,
-  "last_interval_minutes": 133
+  "next_run_at": "2026-09-06T06:05:56.331646+09:00",
+  "total_sent_count": 91,
+  "last_interval_minutes": 137
 }
