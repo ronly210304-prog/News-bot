@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://finance.yahoo.com/markets/stocks/articles/september-historically-worst-month-stocks-173500658.html"
+  ],
   "sent_date": "2026-09-07",
-  "next_run_at": "2026-09-07T02:37:46.247077+09:00",
-  "total_sent_count": 99,
-  "last_interval_minutes": 171
+  "next_run_at": "2026-09-07T05:47:42.685025+09:00",
+  "total_sent_count": 100,
+  "last_interval_minutes": 166
 }
