@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/september-historically-worst-month-stocks-173500658.html"
+    "https://finance.yahoo.com/markets/stocks/articles/september-historically-worst-month-stocks-173500658.html",
+    "https://finance.yahoo.com/markets/stocks/articles/analyzing-applied-digital-vs-iren-210613832.html"
   ],
   "sent_date": "2026-09-07",
-  "next_run_at": "2026-09-07T05:47:42.685025+09:00",
-  "total_sent_count": 100,
-  "last_interval_minutes": 166
+  "next_run_at": "2026-09-07T08:40:24.590055+09:00",
+  "total_sent_count": 101,
+  "last_interval_minutes": 140
 }
