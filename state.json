@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://finance.yahoo.com/markets/stocks/articles/september-historically-worst-month-stocks-173500658.html",
     "https://finance.yahoo.com/markets/stocks/articles/analyzing-applied-digital-vs-iren-210613832.html",
-    "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html"
+    "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html",
+    "https://www.investing.com/news/stock-market-news/wall-street-futures-mixed-after-jobs-data-lifts-sept-fed-hike-odds-4890344"
   ],
   "sent_date": "2026-09-07",
-  "next_run_at": "2026-09-07T11:25:14.729647+09:00",
-  "total_sent_count": 102,
-  "last_interval_minutes": 159
+  "next_run_at": "2026-09-07T13:57:18.791161+09:00",
+  "total_sent_count": 103,
+  "last_interval_minutes": 142
 }
