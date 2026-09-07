@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-coupang-asia-retail-154701812.html"
+    "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-coupang-asia-retail-154701812.html",
+    "https://www.investing.com/news/stock-market-news/trump-demands-bombardier-quit-us-market-unless-it-builds-planes-there-4890722"
   ],
   "sent_date": "2026-09-08",
-  "next_run_at": "2026-09-08T03:54:28.490592+09:00",
-  "total_sent_count": 108,
-  "last_interval_minutes": 173
+  "next_run_at": "2026-09-08T07:01:36.822079+09:00",
+  "total_sent_count": 109,
+  "last_interval_minutes": 180
 }
