@@ -5,10 +5,11 @@
     "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html",
     "https://www.investing.com/news/stock-market-news/wall-street-futures-mixed-after-jobs-data-lifts-sept-fed-hike-odds-4890344",
     "https://www.investing.com/news/stock-market-news/bitcoinbased-liquid-network-says-320-million-withdrawn-in-hack-4890358",
-    "https://www.investing.com/news/stock-market-news/novartis-shares-fall-after-heart-drug-fails-latestage-trial-4890520"
+    "https://www.investing.com/news/stock-market-news/novartis-shares-fall-after-heart-drug-fails-latestage-trial-4890520",
+    "https://www.marketwatch.com/story/a-2-000-iphone-is-coming-soon-as-apple-aims-for-high-end-buyers-248350a9"
   ],
   "sent_date": "2026-09-07",
-  "next_run_at": "2026-09-07T19:45:09.850252+09:00",
-  "total_sent_count": 105,
-  "last_interval_minutes": 163
+  "next_run_at": "2026-09-07T22:22:31.748399+09:00",
+  "total_sent_count": 106,
+  "last_interval_minutes": 141
 }
