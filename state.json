@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-coupang-asia-retail-154701812.html",
-    "https://www.investing.com/news/stock-market-news/trump-demands-bombardier-quit-us-market-unless-it-builds-planes-there-4890722"
+    "https://www.investing.com/news/stock-market-news/trump-demands-bombardier-quit-us-market-unless-it-builds-planes-there-4890722",
+    "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1"
   ],
   "sent_date": "2026-09-08",
-  "next_run_at": "2026-09-08T07:01:36.822079+09:00",
-  "total_sent_count": 109,
-  "last_interval_minutes": 180
+  "next_run_at": "2026-09-08T09:28:43.511469+09:00",
+  "total_sent_count": 110,
+  "last_interval_minutes": 147
 }
