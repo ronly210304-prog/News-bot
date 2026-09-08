@@ -3,10 +3,11 @@
     "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-coupang-asia-retail-154701812.html",
     "https://www.investing.com/news/stock-market-news/trump-demands-bombardier-quit-us-market-unless-it-builds-planes-there-4890722",
     "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1",
-    "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c"
+    "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c",
+    "https://www.investing.com/news/stock-market-news/hang-seng-trapped-in-2495026200-range-hourly-levels-93CH-4890343"
   ],
   "sent_date": "2026-09-08",
-  "next_run_at": "2026-09-08T12:16:54.568052+09:00",
-  "total_sent_count": 111,
-  "last_interval_minutes": 163
+  "next_run_at": "2026-09-08T14:38:31.240934+09:00",
+  "total_sent_count": 112,
+  "last_interval_minutes": 135
 }
