@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-broke-august-163958159.html"
+    "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-broke-august-163958159.html",
+    "https://www.investing.com/news/stock-market-news/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments-4892258"
   ],
   "sent_date": "2026-09-09",
-  "next_run_at": "2026-09-09T04:28:41.924141+09:00",
-  "total_sent_count": 117,
+  "next_run_at": "2026-09-09T07:11:42.478807+09:00",
+  "total_sent_count": 118,
   "last_interval_minutes": 158
 }
