@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-broke-august-163958159.html"
+  ],
   "sent_date": "2026-09-09",
-  "next_run_at": "2026-09-09T01:46:48.107283+09:00",
-  "total_sent_count": 116,
-  "last_interval_minutes": 164
+  "next_run_at": "2026-09-09T04:28:41.924141+09:00",
+  "total_sent_count": 117,
+  "last_interval_minutes": 158
 }
