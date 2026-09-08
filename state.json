@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-coupang-asia-retail-154701812.html",
-    "https://www.investing.com/news/stock-market-news/trump-demands-bombardier-quit-us-market-unless-it-builds-planes-there-4890722",
-    "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1",
-    "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c",
-    "https://www.investing.com/news/stock-market-news/hang-seng-trapped-in-2495026200-range-hourly-levels-93CH-4890343",
-    "https://www.investing.com/news/stock-market-news/australia-targets-social-media-algorithms-with-new-userchoice-rules-4890784",
-    "https://www.investing.com/news/stock-market-news/dow-futures-slip-amid-fed-hike-bets-surging-oil-4890757",
-    "https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910",
-    "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08"
-  ],
-  "sent_date": "2026-09-08",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-09",
   "next_run_at": "2026-09-09T01:46:48.107283+09:00",
   "total_sent_count": 116,
   "last_interval_minutes": 164
