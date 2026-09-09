@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-broke-august-163958159.html",
     "https://www.investing.com/news/stock-market-news/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments-4892258",
-    "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d"
+    "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d",
+    "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e"
   ],
   "sent_date": "2026-09-09",
-  "next_run_at": "2026-09-09T09:49:07.344337+09:00",
-  "total_sent_count": 119,
-  "last_interval_minutes": 147
+  "next_run_at": "2026-09-09T12:10:19.331357+09:00",
+  "total_sent_count": 120,
+  "last_interval_minutes": 137
 }
