@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-as-oil-nears-100-fed-hike-bets-rise-4892640"
+    "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-as-oil-nears-100-fed-hike-bets-rise-4892640",
+    "https://www.investing.com/news/stock-market-news/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude-4894416"
   ],
   "sent_date": "2026-09-10",
-  "next_run_at": "2026-09-10T04:48:19.675401+09:00",
-  "total_sent_count": 126,
-  "last_interval_minutes": 146
+  "next_run_at": "2026-09-10T07:30:28.367477+09:00",
+  "total_sent_count": 127,
+  "last_interval_minutes": 149
 }
