@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-as-oil-nears-100-fed-hike-bets-rise-4892640"
+  ],
   "sent_date": "2026-09-10",
-  "next_run_at": "2026-09-10T02:09:26.856250+09:00",
-  "total_sent_count": 125,
-  "last_interval_minutes": 166
+  "next_run_at": "2026-09-10T04:48:19.675401+09:00",
+  "total_sent_count": 126,
+  "last_interval_minutes": 146
 }
