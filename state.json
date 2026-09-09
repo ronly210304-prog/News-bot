@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-broke-august-163958159.html",
-    "https://www.investing.com/news/stock-market-news/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments-4892258",
-    "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d",
-    "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e",
-    "https://www.investing.com/news/stock-market-news/evidence-suggests-pilots-considered-aborting-landing-in-miami-cargo-plane-crash-4892657",
-    "https://www.investing.com/news/stock-market-news/amgen-and-astrazeneca-report-positive-lung-cancer-trial-results-93CH-4892704",
-    "https://www.investing.com/news/stock-market-news/fortum-shares-surge-on-longterm-nuclear-power-deal-with-google-4892892",
-    "https://finance.yahoo.com/markets/stocks/articles/st-james-place-names-justin-113918375.html",
-    "https://finance.yahoo.com/technology/ai/articles/axa-partners-publicis-sapient-scale-141041193.html"
-  ],
-  "sent_date": "2026-09-09",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-10",
   "next_run_at": "2026-09-10T02:09:26.856250+09:00",
   "total_sent_count": 125,
   "last_interval_minutes": 166
