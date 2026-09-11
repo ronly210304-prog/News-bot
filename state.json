@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/chevron-ceo-says-depleted-crude-oil-buffers-could-lead-to-higher-prices-4898227"
+    "https://www.investing.com/news/stock-market-news/chevron-ceo-says-depleted-crude-oil-buffers-could-lead-to-higher-prices-4898227",
+    "https://www.investing.com/news/stock-market-news/why-is-alphatec-holdings-stock-surging-today-93CH-4898329"
   ],
   "sent_date": "2026-09-12",
-  "next_run_at": "2026-09-12T03:45:01.189781+09:00",
-  "total_sent_count": 144,
-  "last_interval_minutes": 163
+  "next_run_at": "2026-09-12T06:37:41.133996+09:00",
+  "total_sent_count": 145,
+  "last_interval_minutes": 168
 }
