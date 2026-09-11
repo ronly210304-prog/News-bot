@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/chevron-ceo-says-depleted-crude-oil-buffers-could-lead-to-higher-prices-4898227",
-    "https://www.investing.com/news/stock-market-news/why-is-alphatec-holdings-stock-surging-today-93CH-4898329"
+    "https://www.investing.com/news/stock-market-news/why-is-alphatec-holdings-stock-surging-today-93CH-4898329",
+    "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f"
   ],
   "sent_date": "2026-09-12",
-  "next_run_at": "2026-09-12T06:37:41.133996+09:00",
-  "total_sent_count": 145,
-  "last_interval_minutes": 168
+  "next_run_at": "2026-09-12T09:06:31.578351+09:00",
+  "total_sent_count": 146,
+  "last_interval_minutes": 140
 }
