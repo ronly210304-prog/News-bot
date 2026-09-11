@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6",
-    "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f",
-    "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa",
-    "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-cpi-on-tap-oracle-firms-on-strong-earnings-4897114",
-    "https://www.investing.com/news/stock-market-news/sk-hynix-tests-krw-1750000-resistance-live-levels-93CH-4890335",
-    "https://www.investing.com/news/stock-market-news/uk-businesses-push-healey-to-shift-energy-levies-to-ease-costs--report-93CH-4897235",
-    "https://www.investing.com/news/stock-market-news/bank-of-england-expected-to-hold-rates-at-375-next-week-says-bofa-93CH-4897364",
-    "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc",
-    "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e"
-  ],
-  "sent_date": "2026-09-11",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-12",
   "next_run_at": "2026-09-12T00:50:36.712258+09:00",
   "total_sent_count": 143,
   "last_interval_minutes": 135
