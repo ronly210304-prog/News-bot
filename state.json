@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/economy/policy/articles/top-economist-says-fed-hike-154815533.html"
+    "https://finance.yahoo.com/economy/policy/articles/top-economist-says-fed-hike-154815533.html",
+    "https://finance.yahoo.com/markets/currencies/articles/spent-down-roth-first-save-180913692.html"
   ],
   "sent_date": "2026-09-13",
-  "next_run_at": "2026-09-13T03:29:29.090734+09:00",
-  "total_sent_count": 153,
-  "last_interval_minutes": 148
+  "next_run_at": "2026-09-13T05:59:51.199093+09:00",
+  "total_sent_count": 154,
+  "last_interval_minutes": 145
 }
