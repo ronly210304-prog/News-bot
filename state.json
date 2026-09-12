@@ -6,10 +6,11 @@
     "https://www.investing.com/news/stock-market-news/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-wsj-reports-4898535",
     "https://www.investing.com/news/stock-market-news/boeing-and-engineers-union-reach-tentative-contract-agreement-4898569",
     "https://www.investing.com/news/stock-market-news/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak-4898115",
-    "https://www.investing.com/news/stock-market-news/ford-to-recall-about-223500-us-vehicles-over-fuel-tank-issues-4898631"
+    "https://www.investing.com/news/stock-market-news/ford-to-recall-about-223500-us-vehicles-over-fuel-tank-issues-4898631",
+    "https://www.investing.com/news/stock-market-news/global-funds-retreat-from-indian-stocks-as-some-cut-exposure-to-zero--bloomberg-4898628"
   ],
   "sent_date": "2026-09-12",
-  "next_run_at": "2026-09-12T18:46:40.970580+09:00",
-  "total_sent_count": 150,
-  "last_interval_minutes": 134
+  "next_run_at": "2026-09-12T21:40:22.395018+09:00",
+  "total_sent_count": 151,
+  "last_interval_minutes": 159
 }
