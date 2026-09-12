@@ -7,10 +7,11 @@
     "https://www.investing.com/news/stock-market-news/boeing-and-engineers-union-reach-tentative-contract-agreement-4898569",
     "https://www.investing.com/news/stock-market-news/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak-4898115",
     "https://www.investing.com/news/stock-market-news/ford-to-recall-about-223500-us-vehicles-over-fuel-tank-issues-4898631",
-    "https://www.investing.com/news/stock-market-news/global-funds-retreat-from-indian-stocks-as-some-cut-exposure-to-zero--bloomberg-4898628"
+    "https://www.investing.com/news/stock-market-news/global-funds-retreat-from-indian-stocks-as-some-cut-exposure-to-zero--bloomberg-4898628",
+    "https://finance.yahoo.com/markets/stocks/articles/amd-just-raised-top-companys-123901236.html"
   ],
   "sent_date": "2026-09-12",
-  "next_run_at": "2026-09-12T21:40:22.395018+09:00",
-  "total_sent_count": 151,
-  "last_interval_minutes": 159
+  "next_run_at": "2026-09-13T00:50:22.827793+09:00",
+  "total_sent_count": 152,
+  "last_interval_minutes": 180
 }
