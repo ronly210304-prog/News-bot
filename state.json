@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://finance.yahoo.com/economy/policy/articles/top-economist-says-fed-hike-154815533.html",
-    "https://finance.yahoo.com/markets/currencies/articles/spent-down-roth-first-save-180913692.html",
-    "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-paid-exactly-1-205000365.html",
-    "https://finance.yahoo.com/technology/articles/china-just-launched-19-170-231700387.html",
-    "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c",
-    "https://www.investing.com/news/stock-market-news/hyundai-motor-to-roll-out-inhouse-driverassist-system-in-2029-4898697",
-    "https://www.investing.com/news/stock-market-news/spacex-weighting-in-nasdaq-100-set-to-more-than-double--bloomberg-4898698",
-    "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-sept-711-2026-93CH-4898686",
-    "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710"
-  ],
-  "sent_date": "2026-09-13",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-14",
   "next_run_at": "2026-09-14T00:26:42.980285+09:00",
   "total_sent_count": 161,
   "last_interval_minutes": 156
