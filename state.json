@@ -4,10 +4,11 @@
     "https://finance.yahoo.com/markets/currencies/articles/spent-down-roth-first-save-180913692.html",
     "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-paid-exactly-1-205000365.html",
     "https://finance.yahoo.com/technology/articles/china-just-launched-19-170-231700387.html",
-    "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c"
+    "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c",
+    "https://www.investing.com/news/stock-market-news/hyundai-motor-to-roll-out-inhouse-driverassist-system-in-2029-4898697"
   ],
   "sent_date": "2026-09-13",
-  "next_run_at": "2026-09-13T14:30:13.246882+09:00",
-  "total_sent_count": 157,
-  "last_interval_minutes": 176
+  "next_run_at": "2026-09-13T17:22:31.072780+09:00",
+  "total_sent_count": 158,
+  "last_interval_minutes": 169
 }
