@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html"
+    "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
+    "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html"
   ],
   "sent_date": "2026-09-14",
-  "next_run_at": "2026-09-14T02:38:34.935543+09:00",
-  "total_sent_count": 162,
-  "last_interval_minutes": 125
+  "next_run_at": "2026-09-14T05:21:23.063986+09:00",
+  "total_sent_count": 163,
+  "last_interval_minutes": 155
 }
