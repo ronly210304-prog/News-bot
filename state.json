@@ -3,10 +3,11 @@
     "https://finance.yahoo.com/economy/policy/articles/top-economist-says-fed-hike-154815533.html",
     "https://finance.yahoo.com/markets/currencies/articles/spent-down-roth-first-save-180913692.html",
     "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-paid-exactly-1-205000365.html",
-    "https://finance.yahoo.com/technology/articles/china-just-launched-19-170-231700387.html"
+    "https://finance.yahoo.com/technology/articles/china-just-launched-19-170-231700387.html",
+    "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c"
   ],
   "sent_date": "2026-09-13",
-  "next_run_at": "2026-09-13T11:28:15.223868+09:00",
-  "total_sent_count": 156,
+  "next_run_at": "2026-09-13T14:30:13.246882+09:00",
+  "total_sent_count": 157,
   "last_interval_minutes": 176
 }
