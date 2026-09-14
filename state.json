@@ -3,10 +3,11 @@
     "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
     "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
     "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555",
-    "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/"
+    "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/",
+    "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd"
   ],
   "sent_date": "2026-09-14",
-  "next_run_at": "2026-09-14T10:38:30.722642+09:00",
-  "total_sent_count": 165,
-  "last_interval_minutes": 157
+  "next_run_at": "2026-09-14T12:50:38.635122+09:00",
+  "total_sent_count": 166,
+  "last_interval_minutes": 121
 }
