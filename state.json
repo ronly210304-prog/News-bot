@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/pinterest-stock-rises-after-unveiling-ai-infrastructure-with-nvidia-93CH-4900081",
-    "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581"
+    "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581",
+    "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2"
   ],
   "sent_date": "2026-09-15",
-  "next_run_at": "2026-09-15T06:11:03.176551+09:00",
-  "total_sent_count": 173,
-  "last_interval_minutes": 151
+  "next_run_at": "2026-09-15T08:45:05.116967+09:00",
+  "total_sent_count": 174,
+  "last_interval_minutes": 143
 }
