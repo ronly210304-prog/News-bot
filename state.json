@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/loreal-steals-french-stock-market-crown-from-lvmh-4902226"
+    "https://www.investing.com/news/stock-market-news/loreal-steals-french-stock-market-crown-from-lvmh-4902226",
+    "https://www.investing.com/news/stock-market-news/crowdstrike-and-illumina-among-market-cap-stock-movers-on-tuesday-93CH-4902377"
   ],
   "sent_date": "2026-09-16",
-  "next_run_at": "2026-09-16T03:30:15.430736+09:00",
-  "total_sent_count": 181,
-  "last_interval_minutes": 160
+  "next_run_at": "2026-09-16T06:03:52.867083+09:00",
+  "total_sent_count": 182,
+  "last_interval_minutes": 147
 }
