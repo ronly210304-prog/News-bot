@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/stocks/articles/why-cipher-digital-stock-skyrocketing-150742187.html"
+    "https://finance.yahoo.com/markets/stocks/articles/why-cipher-digital-stock-skyrocketing-150742187.html",
+    "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f"
   ],
   "sent_date": "2026-09-17",
-  "next_run_at": "2026-09-17T03:15:08.684361+09:00",
-  "total_sent_count": 190,
-  "last_interval_minutes": 172
+  "next_run_at": "2026-09-17T06:20:24.269686+09:00",
+  "total_sent_count": 191,
+  "last_interval_minutes": 175
 }
