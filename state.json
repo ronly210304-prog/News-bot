@@ -1,16 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/loreal-steals-french-stock-market-crown-from-lvmh-4902226",
-    "https://www.investing.com/news/stock-market-news/crowdstrike-and-illumina-among-market-cap-stock-movers-on-tuesday-93CH-4902377",
-    "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b",
-    "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902",
-    "https://www.investing.com/news/stock-market-news/american-savings-bank-prices-ipo-at-16-per-share-on-nyse-432SI-4902820",
-    "https://www.investing.com/news/stock-market-news/gift-nifty-50-consolidates-bearishly-near-23595-resistance-live-93CH-4900761",
-    "https://www.investing.com/news/stock-market-news/european-stocks-rise-from-3month-lows-as-traders-await-highstakes-fed-decision-4902888",
-    "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981",
-    "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d"
-  ],
-  "sent_date": "2026-09-16",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-17",
   "next_run_at": "2026-09-17T00:14:17.521991+09:00",
   "total_sent_count": 189,
   "last_interval_minutes": 151
