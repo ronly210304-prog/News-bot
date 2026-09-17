@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.investing.com/news/stock-market-news/power-solutions-options-flow-points-to-a-defined-bullish-spread-targeting-50-93CH-4906073"
+  ],
   "sent_date": "2026-09-18",
-  "next_run_at": "2026-09-18T00:33:08.572167+09:00",
-  "total_sent_count": 198,
-  "last_interval_minutes": 150
+  "next_run_at": "2026-09-18T02:50:47.421557+09:00",
+  "total_sent_count": 199,
+  "last_interval_minutes": 136
 }
