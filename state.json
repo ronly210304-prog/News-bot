@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/power-solutions-options-flow-points-to-a-defined-bullish-spread-targeting-50-93CH-4906073",
-    "https://www.investing.com/news/stock-market-news/why-is-blossom-gold-stock-surging-today-93CH-4906221"
+    "https://www.investing.com/news/stock-market-news/why-is-blossom-gold-stock-surging-today-93CH-4906221",
+    "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77"
   ],
   "sent_date": "2026-09-18",
-  "next_run_at": "2026-09-18T06:02:20.866566+09:00",
-  "total_sent_count": 200,
-  "last_interval_minutes": 156
+  "next_run_at": "2026-09-18T09:22:18.016130+09:00",
+  "total_sent_count": 201,
+  "last_interval_minutes": 180
 }
