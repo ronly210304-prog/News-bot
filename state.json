@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://finance.yahoo.com/markets/stocks/articles/why-cipher-digital-stock-skyrocketing-150742187.html",
     "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f",
-    "https://www.investing.com/news/stock-market-news/american-airlines-warns-high-fuel-prices-could-force-capacity-adjustments-4904091"
+    "https://www.investing.com/news/stock-market-news/american-airlines-warns-high-fuel-prices-could-force-capacity-adjustments-4904091",
+    "https://www.investing.com/news/stock-market-news/exxon-advances-talks-to-return-to-venezuelas-orinoco-belt-sources-say-4904694"
   ],
   "sent_date": "2026-09-17",
-  "next_run_at": "2026-09-17T08:50:04.723926+09:00",
-  "total_sent_count": 192,
-  "last_interval_minutes": 147
+  "next_run_at": "2026-09-17T11:24:44.524606+09:00",
+  "total_sent_count": 193,
+  "last_interval_minutes": 143
 }
