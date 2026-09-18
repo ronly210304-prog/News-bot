@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43"
+  ],
   "sent_date": "2026-09-19",
-  "next_run_at": "2026-09-19T01:17:20.624904+09:00",
-  "total_sent_count": 207,
-  "last_interval_minutes": 148
+  "next_run_at": "2026-09-19T04:14:34.005274+09:00",
+  "total_sent_count": 208,
+  "last_interval_minutes": 173
 }
