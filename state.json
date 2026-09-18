@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43",
-    "https://www.investing.com/news/stock-market-news/versant-media-shares-fall-after-trump-bans-msnow-from-white-house-93CH-4907799"
+    "https://www.investing.com/news/stock-market-news/versant-media-shares-fall-after-trump-bans-msnow-from-white-house-93CH-4907799",
+    "https://www.investing.com/news/stock-market-news/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise-4907902"
   ],
   "sent_date": "2026-09-19",
-  "next_run_at": "2026-09-19T07:01:33.500459+09:00",
-  "total_sent_count": 209,
-  "last_interval_minutes": 161
+  "next_run_at": "2026-09-19T09:28:23.659396+09:00",
+  "total_sent_count": 210,
+  "last_interval_minutes": 127
 }
