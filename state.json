@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb"
+  ],
   "sent_date": "2026-09-20",
-  "next_run_at": "2026-09-20T01:58:04.104973+09:00",
-  "total_sent_count": 216,
-  "last_interval_minutes": 157
+  "next_run_at": "2026-09-20T04:36:31.227463+09:00",
+  "total_sent_count": 217,
+  "last_interval_minutes": 155
 }
