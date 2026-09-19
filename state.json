@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb"
+    "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb",
+    "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html"
   ],
   "sent_date": "2026-09-20",
-  "next_run_at": "2026-09-20T04:36:31.227463+09:00",
-  "total_sent_count": 217,
+  "next_run_at": "2026-09-20T07:21:08.786313+09:00",
+  "total_sent_count": 218,
   "last_interval_minutes": 155
 }
