@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb",
     "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
-    "https://finance.yahoo.com/markets/stocks/articles/could-oracles-debt-load-derail-220900578.html"
+    "https://finance.yahoo.com/markets/stocks/articles/could-oracles-debt-load-derail-220900578.html",
+    "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069"
   ],
   "sent_date": "2026-09-20",
-  "next_run_at": "2026-09-20T10:14:19.497789+09:00",
-  "total_sent_count": 219,
-  "last_interval_minutes": 161
+  "next_run_at": "2026-09-20T12:22:22.775946+09:00",
+  "total_sent_count": 220,
+  "last_interval_minutes": 122
 }
