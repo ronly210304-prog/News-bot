@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://finance.yahoo.com/markets/options/articles/invest-10-000-bond-etf-165002215.html"
+  ],
   "sent_date": "2026-09-21",
-  "next_run_at": "2026-09-21T02:19:34.355880+09:00",
-  "total_sent_count": 225,
-  "last_interval_minutes": 166
+  "next_run_at": "2026-09-21T04:50:15.916332+09:00",
+  "total_sent_count": 226,
+  "last_interval_minutes": 150
 }
