@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://finance.yahoo.com/markets/options/articles/invest-10-000-bond-etf-165002215.html"
+    "https://finance.yahoo.com/markets/options/articles/invest-10-000-bond-etf-165002215.html",
+    "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-prices-1b-194719659.html"
   ],
   "sent_date": "2026-09-21",
-  "next_run_at": "2026-09-21T04:50:15.916332+09:00",
-  "total_sent_count": 226,
-  "last_interval_minutes": 150
+  "next_run_at": "2026-09-21T07:56:34.851482+09:00",
+  "total_sent_count": 227,
+  "last_interval_minutes": 175
 }
