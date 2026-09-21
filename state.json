@@ -3,10 +3,11 @@
     "https://finance.yahoo.com/markets/options/articles/invest-10-000-bond-etf-165002215.html",
     "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-prices-1b-194719659.html",
     "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/",
-    "https://www.investing.com/news/stock-market-news/paramount-could-face-30m-penalty-for-missing-theater-release-goal-bloomberg-93CH-4908216"
+    "https://www.investing.com/news/stock-market-news/paramount-could-face-30m-penalty-for-missing-theater-release-goal-bloomberg-93CH-4908216",
+    "https://www.investing.com/news/stock-market-news/how-trump-and-xi-went-from-tariff-war-to-trade-truce-4908240"
   ],
   "sent_date": "2026-09-21",
-  "next_run_at": "2026-09-21T12:54:56.215860+09:00",
-  "total_sent_count": 229,
-  "last_interval_minutes": 126
+  "next_run_at": "2026-09-21T15:29:54.320057+09:00",
+  "total_sent_count": 230,
+  "last_interval_minutes": 148
 }
