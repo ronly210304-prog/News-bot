@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b"
+  ],
   "sent_date": "2026-09-22",
-  "next_run_at": "2026-09-22T00:13:06.116027+09:00",
-  "total_sent_count": 233,
-  "last_interval_minutes": 167
+  "next_run_at": "2026-09-22T02:27:15.032766+09:00",
+  "total_sent_count": 234,
+  "last_interval_minutes": 126
 }
