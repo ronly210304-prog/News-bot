@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b",
-    "https://finance.yahoo.com/markets/stocks/articles/oura-smart-ring-ipo-roadshow-172711368.html"
+    "https://finance.yahoo.com/markets/stocks/articles/oura-smart-ring-ipo-roadshow-172711368.html",
+    "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df"
   ],
   "sent_date": "2026-09-22",
-  "next_run_at": "2026-09-22T05:01:40.642663+09:00",
-  "total_sent_count": 235,
-  "last_interval_minutes": 148
+  "next_run_at": "2026-09-22T07:32:11.147623+09:00",
+  "total_sent_count": 236,
+  "last_interval_minutes": 130
 }
