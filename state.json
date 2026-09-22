@@ -1,17 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b",
-    "https://finance.yahoo.com/markets/stocks/articles/oura-smart-ring-ipo-roadshow-172711368.html",
-    "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df",
-    "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291",
-    "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370",
-    "https://www.investing.com/news/stock-market-news/why-is-zto-express-stock-sliding-today-93CH-4909834",
-    "https://www.investing.com/news/stock-market-news/reserve-bank-of-australia-governor-bullock-warns-of-inflation-risks-as-rate-decision-looms-93CH-4909866",
-    "https://www.investing.com/news/stock-market-news/why-is-smiths-stock-surging-today-93CH-4909989",
-    "https://finance.yahoo.com/small-business/articles/paymob-secures-35m-pre-series-101907626.html",
-    "https://finance.yahoo.com/markets/stocks/articles/ppg-names-alex-lopez-investor-124537498.html"
-  ],
-  "sent_date": "2026-09-22",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-23",
   "next_run_at": "2026-09-23T00:12:19.485485+09:00",
   "total_sent_count": 243,
   "last_interval_minutes": 139
