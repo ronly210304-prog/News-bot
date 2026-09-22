@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105"
+    "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105",
+    "https://www.investing.com/news/stock-market-news/smaller-packs-more-protein-ab-inbev-to-adaptdrinks-to-shifting-tastes-4911743"
   ],
   "sent_date": "2026-09-23",
-  "next_run_at": "2026-09-23T06:10:07.977354+09:00",
-  "total_sent_count": 244,
-  "last_interval_minutes": 140
+  "next_run_at": "2026-09-23T09:31:35.671396+09:00",
+  "total_sent_count": 245,
+  "last_interval_minutes": 169
 }
