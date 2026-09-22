@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105"
+  ],
   "sent_date": "2026-09-23",
-  "next_run_at": "2026-09-23T00:12:19.485485+09:00",
-  "total_sent_count": 243,
-  "last_interval_minutes": 139
+  "next_run_at": "2026-09-23T06:10:07.977354+09:00",
+  "total_sent_count": 244,
+  "last_interval_minutes": 140
 }
