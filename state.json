@@ -1,12 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105",
-    "https://www.investing.com/news/stock-market-news/smaller-packs-more-protein-ab-inbev-to-adaptdrinks-to-shifting-tastes-4911743",
-    "https://www.investing.com/news/stock-market-news/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-4911946",
-    "https://www.investing.com/news/stock-market-news/india-private-sector-activity-hits-3month-high-as-manufacturing-rebounds-93CH-4912168",
-    "https://www.investing.com/news/stock-market-news/cineplex-explores-strategic-alternatives-as-new-ceo-bill-walker-takes-the-helm-4913044"
-  ],
-  "sent_date": "2026-09-23",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-24",
   "next_run_at": "2026-09-23T23:56:27.449797+09:00",
   "total_sent_count": 248,
   "last_interval_minutes": 127
