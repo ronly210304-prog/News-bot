@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9"
+  ],
   "sent_date": "2026-09-24",
-  "next_run_at": "2026-09-23T23:56:27.449797+09:00",
-  "total_sent_count": 248,
-  "last_interval_minutes": 127
+  "next_run_at": "2026-09-24T08:08:28.309816+09:00",
+  "total_sent_count": 249,
+  "last_interval_minutes": 148
 }
