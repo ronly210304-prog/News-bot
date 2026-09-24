@@ -1,11 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9",
-    "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
-    "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-surging-yields-weigh-trumpxi-talks-in-focus-4914395",
-    "https://www.investing.com/news/stock-market-news/why-is-atresmedia-stock-surging-today-93CH-4915195"
-  ],
-  "sent_date": "2026-09-24",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-25",
   "next_run_at": "2026-09-24T23:40:09.350392+09:00",
   "total_sent_count": 252,
   "last_interval_minutes": 160
