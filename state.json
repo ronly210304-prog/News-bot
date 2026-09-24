@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.investing.com/news/stock-market-news/redbird-capital-to-acquire-majority-stake-in-puck-at-250-million-valuation-memo-says-4915973"
+  ],
   "sent_date": "2026-09-25",
-  "next_run_at": "2026-09-24T23:40:09.350392+09:00",
-  "total_sent_count": 252,
-  "last_interval_minutes": 160
+  "next_run_at": "2026-09-25T07:35:39.679628+09:00",
+  "total_sent_count": 253,
+  "last_interval_minutes": 148
 }
