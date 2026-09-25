@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/redbird-capital-to-acquire-majority-stake-in-puck-at-250-million-valuation-memo-says-4915973",
-    "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed"
+    "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed",
+    "https://www.investing.com/news/stock-market-news/trump-to-wrap-up-xi-summit-with-a-tour-of-us-archives-4916620"
   ],
   "sent_date": "2026-09-25",
-  "next_run_at": "2026-09-25T10:43:18.163547+09:00",
-  "total_sent_count": 254,
-  "last_interval_minutes": 152
+  "next_run_at": "2026-09-25T17:45:43.476617+09:00",
+  "total_sent_count": 255,
+  "last_interval_minutes": 148
 }
