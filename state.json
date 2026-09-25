@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/sk-hynixs-solidigm-eyes-2027-ipo-at-value-up-to-150-billion--reuters-432SI-4917882"
+    "https://www.investing.com/news/stock-market-news/sk-hynixs-solidigm-eyes-2027-ipo-at-value-up-to-150-billion--reuters-432SI-4917882",
+    "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc"
   ],
   "sent_date": "2026-09-26",
-  "next_run_at": "2026-09-26T04:42:04.350605+09:00",
-  "total_sent_count": 256,
-  "last_interval_minutes": 156
+  "next_run_at": "2026-09-26T08:23:03.760283+09:00",
+  "total_sent_count": 257,
+  "last_interval_minutes": 176
 }
