@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/sk-hynixs-solidigm-eyes-2027-ipo-at-value-up-to-150-billion--reuters-432SI-4917882",
     "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc",
-    "https://www.investing.com/news/stock-market-news/tv-networks-to-resume-coverage-of-trump-events-cnn-says-4917665"
+    "https://www.investing.com/news/stock-market-news/tv-networks-to-resume-coverage-of-trump-events-cnn-says-4917665",
+    "https://www.investing.com/news/stock-market-news/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says-4918395"
   ],
   "sent_date": "2026-09-26",
-  "next_run_at": "2026-09-26T12:48:31.806311+09:00",
-  "total_sent_count": 258,
-  "last_interval_minutes": 125
+  "next_run_at": "2026-09-26T17:46:36.714272+09:00",
+  "total_sent_count": 259,
+  "last_interval_minutes": 130
 }
