@@ -1,14 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f",
-    "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9",
-    "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3",
-    "https://www.investing.com/news/stock-market-news/china-consumer-stocks-near-decade-lows-as-investors-pile-into-ai-4918679",
-    "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-muse-ai-seen-as-major-catalyst-for-meta-msft-upgraded-4918281",
-    "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048"
+    "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047"
   ],
-  "sent_date": "2026-09-27",
-  "next_run_at": "2026-09-28T01:16:43.894134+09:00",
-  "total_sent_count": 266,
-  "last_interval_minutes": 142
+  "sent_date": "2026-09-28",
+  "next_run_at": "2026-09-28T04:58:01.870353+09:00",
+  "total_sent_count": 267,
+  "last_interval_minutes": 120
 }
