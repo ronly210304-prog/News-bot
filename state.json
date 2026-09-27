@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047"
+    "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
+    "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d"
   ],
   "sent_date": "2026-09-28",
-  "next_run_at": "2026-09-28T04:58:01.870353+09:00",
-  "total_sent_count": 267,
-  "last_interval_minutes": 120
+  "next_run_at": "2026-09-28T08:30:20.270217+09:00",
+  "total_sent_count": 268,
+  "last_interval_minutes": 168
 }
