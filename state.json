@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c"
+  ],
   "sent_date": "2026-09-29",
-  "next_run_at": "2026-09-28T18:48:56.206463+09:00",
-  "total_sent_count": 270,
-  "last_interval_minutes": 120
+  "next_run_at": "2026-09-29T09:22:28.783251+09:00",
+  "total_sent_count": 271,
+  "last_interval_minutes": 146
 }
