@@ -1,11 +1,6 @@
 {
-  "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
-    "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d",
-    "https://www.investing.com/news/stock-market-news/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-4919063",
-    "https://www.investing.com/news/stock-market-news/why-is-verbund-stock-climbing-today-93CH-4919495"
-  ],
-  "sent_date": "2026-09-28",
+  "sent_urls_today": [],
+  "sent_date": "2026-09-29",
   "next_run_at": "2026-09-28T18:48:56.206463+09:00",
   "total_sent_count": 270,
   "last_interval_minutes": 120
