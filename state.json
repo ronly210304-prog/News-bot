@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c",
     "https://www.investing.com/news/stock-market-news/samsung-affiliates-to-invest-1-billion-in-ai-infrastructure-firm-helix-4921450",
-    "https://www.investing.com/news/stock-market-news/swedish-household-confidence-hits-highest-since-2021-as-economic-sentiment-rises-93CH-4921646"
+    "https://www.investing.com/news/stock-market-news/swedish-household-confidence-hits-highest-since-2021-as-economic-sentiment-rises-93CH-4921646",
+    "https://www.investing.com/news/stock-market-news/sp-nasdaq-open-higher-on-oil-retreat-tech-optimism-4922926"
   ],
   "sent_date": "2026-09-29",
-  "next_run_at": "2026-09-29T18:12:28.069025+09:00",
-  "total_sent_count": 273,
-  "last_interval_minutes": 129
+  "next_run_at": "2026-09-30T01:02:56.930764+09:00",
+  "total_sent_count": 274,
+  "last_interval_minutes": 121
 }
