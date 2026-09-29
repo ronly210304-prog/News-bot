@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c"
+    "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c",
+    "https://www.investing.com/news/stock-market-news/samsung-affiliates-to-invest-1-billion-in-ai-infrastructure-firm-helix-4921450"
   ],
   "sent_date": "2026-09-29",
-  "next_run_at": "2026-09-29T09:22:28.783251+09:00",
-  "total_sent_count": 271,
-  "last_interval_minutes": 146
+  "next_run_at": "2026-09-29T12:36:48.633154+09:00",
+  "total_sent_count": 272,
+  "last_interval_minutes": 136
 }
