@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/why-is-canadian-solar-stock-surging-10-today-93CH-4923364",
     "https://www.investing.com/news/stock-market-news/goldman-private-credit-fund-defies-industry-elevated-withdrawal-trend-again-yet-again-4923801",
-    "https://www.investing.com/news/stock-market-news/trump-releases-ai-accord-with-tech-executives-4923759"
+    "https://www.investing.com/news/stock-market-news/trump-releases-ai-accord-with-tech-executives-4923759",
+    "https://www.investing.com/news/stock-market-news/bmw-targets-margin-recovery-with-cuts-and-local-production-4924274"
   ],
   "sent_date": "2026-09-30",
-  "next_run_at": "2026-09-30T13:19:52.053943+09:00",
-  "total_sent_count": 277,
-  "last_interval_minutes": 136
+  "next_run_at": "2026-09-30T20:20:23.320229+09:00",
+  "total_sent_count": 278,
+  "last_interval_minutes": 173
 }
