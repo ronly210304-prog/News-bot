@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b"
+    "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b",
+    "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d"
   ],
   "sent_date": "2026-10-02",
-  "next_run_at": "2026-10-02T03:08:36.238795+09:00",
-  "total_sent_count": 284,
-  "last_interval_minutes": 141
+  "next_run_at": "2026-10-02T07:49:51.119571+09:00",
+  "total_sent_count": 285,
+  "last_interval_minutes": 133
 }
