@@ -1,13 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e",
-    "https://www.investing.com/news/stock-market-news/exclusiveanthropics-ipo-pitch-embraces-ais-promise-and-peril-4925792",
-    "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860",
-    "https://www.investing.com/news/stock-market-news/hang-seng-stuck-below-24800-resistance-live-levels-93CH-4919260",
-    "https://www.investing.com/news/stock-market-news/final-hour-get-investingpro-for-less-than-2-per-week-before-our-sale-ends-today-4926565"
+    "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b"
   ],
-  "sent_date": "2026-10-01",
-  "next_run_at": "2026-10-01T20:45:05.104948+09:00",
-  "total_sent_count": 283,
-  "last_interval_minutes": 169
+  "sent_date": "2026-10-02",
+  "next_run_at": "2026-10-02T03:08:36.238795+09:00",
+  "total_sent_count": 284,
+  "last_interval_minutes": 141
 }
