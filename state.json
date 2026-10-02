@@ -1,13 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b",
-    "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d",
-    "https://www.investing.com/news/stock-market-news/ypf-investors-ask-us-supreme-court-to-revive-161-billion-judgment-against-argentina-4928174",
-    "https://www.investing.com/news/stock-market-news/foiled-flydubai-attack-clouds-regional-airline-revival-4928889",
-    "https://www.investing.com/news/stock-market-news/us-looks-to-expand-use-of-canoesized-drones-to-deter-migrant-crossings-4929345"
+    "https://www.investing.com/news/stock-market-news/europe-discussing-plan-for-diesel-stock-releases-after-us-pressure-source-says-4929100"
   ],
-  "sent_date": "2026-10-02",
-  "next_run_at": "2026-10-02T22:26:54.071146+09:00",
-  "total_sent_count": 288,
-  "last_interval_minutes": 132
+  "sent_date": "2026-10-03",
+  "next_run_at": "2026-10-03T04:05:18.064390+09:00",
+  "total_sent_count": 289,
+  "last_interval_minutes": 147
 }
