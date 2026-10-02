@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b",
-    "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d"
+    "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d",
+    "https://www.investing.com/news/stock-market-news/ypf-investors-ask-us-supreme-court-to-revive-161-billion-judgment-against-argentina-4928174"
   ],
   "sent_date": "2026-10-02",
-  "next_run_at": "2026-10-02T07:49:51.119571+09:00",
-  "total_sent_count": 285,
-  "last_interval_minutes": 133
+  "next_run_at": "2026-10-02T11:57:46.230142+09:00",
+  "total_sent_count": 286,
+  "last_interval_minutes": 166
 }
