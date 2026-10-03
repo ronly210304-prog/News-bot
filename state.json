@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/europe-discussing-plan-for-diesel-stock-releases-after-us-pressure-source-says-4929100",
-    "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb"
+    "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb",
+    "https://www.investing.com/news/stock-market-news/apple-says-it-will-flag-ai-requests-for-mac-data-after-metas-muse-draws-complaints-4930505"
   ],
   "sent_date": "2026-10-03",
-  "next_run_at": "2026-10-03T08:19:25.739346+09:00",
-  "total_sent_count": 290,
-  "last_interval_minutes": 142
+  "next_run_at": "2026-10-03T11:20:25.800695+09:00",
+  "total_sent_count": 291,
+  "last_interval_minutes": 135
 }
