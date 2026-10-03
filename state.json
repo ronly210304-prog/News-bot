@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca"
+    "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca",
+    "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930887"
   ],
   "sent_date": "2026-10-04",
-  "next_run_at": "2026-10-04T06:06:44.051594+09:00",
-  "total_sent_count": 295,
-  "last_interval_minutes": 164
+  "next_run_at": "2026-10-04T09:28:11.124094+09:00",
+  "total_sent_count": 296,
+  "last_interval_minutes": 178
 }
