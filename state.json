@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9"
+    "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9",
+    "https://www.investing.com/news/stock-market-news/musk-says-spacex-to-change-name-to-spacexsi-4930945"
   ],
   "sent_date": "2026-10-05",
-  "next_run_at": "2026-10-05T03:13:55.431199+09:00",
-  "total_sent_count": 299,
-  "last_interval_minutes": 164
+  "next_run_at": "2026-10-05T06:14:42.321769+09:00",
+  "total_sent_count": 300,
+  "last_interval_minutes": 151
 }
