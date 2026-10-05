@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9",
     "https://www.investing.com/news/stock-market-news/musk-says-spacex-to-change-name-to-spacexsi-4930945",
-    "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962"
+    "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
+    "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6"
   ],
   "sent_date": "2026-10-05",
-  "next_run_at": "2026-10-05T09:26:12.114880+09:00",
-  "total_sent_count": 301,
-  "last_interval_minutes": 149
+  "next_run_at": "2026-10-06T00:28:27.951625+09:00",
+  "total_sent_count": 302,
+  "last_interval_minutes": 140
 }
