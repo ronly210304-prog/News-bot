@@ -1,12 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9",
-    "https://www.investing.com/news/stock-market-news/musk-says-spacex-to-change-name-to-spacexsi-4930945",
-    "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
-    "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6"
+    "https://www.investing.com/news/stock-market-news/american-deisseroth-and-germans-hegemann-and-nagel-win-2026-nobel-medicine-prize-4931412"
   ],
-  "sent_date": "2026-10-05",
-  "next_run_at": "2026-10-06T00:28:27.951625+09:00",
-  "total_sent_count": 302,
-  "last_interval_minutes": 140
+  "sent_date": "2026-10-06",
+  "next_run_at": "2026-10-06T08:22:44.601016+09:00",
+  "total_sent_count": 303,
+  "last_interval_minutes": 132
 }
