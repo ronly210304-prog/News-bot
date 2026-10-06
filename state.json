@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/european-shares-gain-as-genmab-jumps-bond-yields-retreat-4933561"
+    "https://www.investing.com/news/stock-market-news/european-shares-gain-as-genmab-jumps-bond-yields-retreat-4933561",
+    "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6"
   ],
   "sent_date": "2026-10-07",
-  "next_run_at": "2026-10-07T02:10:54.388839+09:00",
-  "total_sent_count": 306,
-  "last_interval_minutes": 125
+  "next_run_at": "2026-10-07T08:06:56.711436+09:00",
+  "total_sent_count": 307,
+  "last_interval_minutes": 173
 }
