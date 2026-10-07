@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/european-shares-gain-as-genmab-jumps-bond-yields-retreat-4933561",
     "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6",
-    "https://www.investing.com/news/stock-market-news/spacex--seeks-to-raise-40-bln-to-buy-nvidia-chips-ft-4935412"
+    "https://www.investing.com/news/stock-market-news/spacex--seeks-to-raise-40-bln-to-buy-nvidia-chips-ft-4935412",
+    "https://www.investing.com/news/stock-market-news/a-highconviction-chip-stock-up-3083-since-our-ai-models-flagged-it-4935547"
   ],
   "sent_date": "2026-10-07",
-  "next_run_at": "2026-10-07T10:54:22.586408+09:00",
-  "total_sent_count": 308,
-  "last_interval_minutes": 126
+  "next_run_at": "2026-10-07T14:41:14.000938+09:00",
+  "total_sent_count": 309,
+  "last_interval_minutes": 169
 }
