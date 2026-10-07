@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/google-expands-synthid-detector-tool-globally-to-identify-ai-content-93CH-4937199"
+    "https://www.investing.com/news/stock-market-news/google-expands-synthid-detector-tool-globally-to-identify-ai-content-93CH-4937199",
+    "https://www.investing.com/news/stock-market-news/lululemon-puts-nike-veteran-in-charge-of-product-as-ceo-oneill-looks-to-right-ship-4937579"
   ],
   "sent_date": "2026-10-08",
-  "next_run_at": "2026-10-08T04:36:31.326988+09:00",
-  "total_sent_count": 311,
-  "last_interval_minutes": 174
+  "next_run_at": "2026-10-08T09:27:43.277153+09:00",
+  "total_sent_count": 312,
+  "last_interval_minutes": 164
 }
