@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5"
+    "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5",
+    "https://www.investing.com/news/stock-market-news/exclusivesequoiabacked-chip-startup-nuvacore-raising-funds-at-about-a-25-billion-valuation-sources-say-4941795"
   ],
   "sent_date": "2026-10-10",
-  "next_run_at": "2026-10-10T06:05:58.728545+09:00",
-  "total_sent_count": 320,
-  "last_interval_minutes": 127
+  "next_run_at": "2026-10-10T10:25:15.262382+09:00",
+  "total_sent_count": 321,
+  "last_interval_minutes": 144
 }
