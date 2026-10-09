@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/lawmakers-raise-alarm-at-google-plan-to-acquire-spirit-airlines-data-for-ai-models-4939672"
+    "https://www.investing.com/news/stock-market-news/lawmakers-raise-alarm-at-google-plan-to-acquire-spirit-airlines-data-for-ai-models-4939672",
+    "https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033"
   ],
   "sent_date": "2026-10-09",
-  "next_run_at": "2026-10-09T07:37:08.969805+09:00",
-  "total_sent_count": 316,
-  "last_interval_minutes": 140
+  "next_run_at": "2026-10-09T12:03:56.422902+09:00",
+  "total_sent_count": 317,
+  "last_interval_minutes": 154
 }
