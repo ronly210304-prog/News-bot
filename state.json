@@ -1,12 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/lawmakers-raise-alarm-at-google-plan-to-acquire-spirit-airlines-data-for-ai-models-4939672",
-    "https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033",
-    "https://www.investing.com/news/stock-market-news/ssp-on-track-for-fy26-earnings-despite-middle-east-conflict-50-mln-buyback-4940270",
-    "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631"
+    "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5"
   ],
-  "sent_date": "2026-10-09",
-  "next_run_at": "2026-10-10T01:30:11.187506+09:00",
-  "total_sent_count": 319,
-  "last_interval_minutes": 174
+  "sent_date": "2026-10-10",
+  "next_run_at": "2026-10-10T06:05:58.728545+09:00",
+  "total_sent_count": 320,
+  "last_interval_minutes": 127
 }
