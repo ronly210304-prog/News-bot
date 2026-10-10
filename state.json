@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2"
+    "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2",
+    "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259"
   ],
   "sent_date": "2026-10-11",
-  "next_run_at": "2026-10-11T05:53:14.534292+09:00",
-  "total_sent_count": 325,
-  "last_interval_minutes": 122
+  "next_run_at": "2026-10-11T10:03:04.064649+09:00",
+  "total_sent_count": 326,
+  "last_interval_minutes": 179
 }
