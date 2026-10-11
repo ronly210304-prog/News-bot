@@ -1,11 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2",
-    "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
-    "https://www.investing.com/news/stock-market-news/8-emerging-markets-to-consider-in-2027-hsbc-4942478"
+    "https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779"
   ],
-  "sent_date": "2026-10-11",
-  "next_run_at": "2026-10-11T18:15:36.690795+09:00",
-  "total_sent_count": 327,
-  "last_interval_minutes": 152
+  "sent_date": "2026-10-12",
+  "next_run_at": "2026-10-12T05:34:45.423456+09:00",
+  "total_sent_count": 328,
+  "last_interval_minutes": 128
 }
