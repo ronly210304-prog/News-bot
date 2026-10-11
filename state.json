@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779"
+    "https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
+    "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850"
   ],
   "sent_date": "2026-10-12",
-  "next_run_at": "2026-10-12T05:34:45.423456+09:00",
-  "total_sent_count": 328,
-  "last_interval_minutes": 128
+  "next_run_at": "2026-10-12T09:55:56.880611+09:00",
+  "total_sent_count": 329,
+  "last_interval_minutes": 165
 }
