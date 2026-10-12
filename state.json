@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
-    "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850"
+    "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
+    "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961"
   ],
   "sent_date": "2026-10-12",
-  "next_run_at": "2026-10-12T09:55:56.880611+09:00",
-  "total_sent_count": 329,
+  "next_run_at": "2026-10-12T13:03:19.190672+09:00",
+  "total_sent_count": 330,
   "last_interval_minutes": 165
 }
