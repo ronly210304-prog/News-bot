@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05",
     "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c",
-    "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262"
+    "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
+    "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043"
   ],
   "sent_date": "2026-10-13",
-  "next_run_at": "2026-10-13T14:55:18.407593+09:00",
-  "total_sent_count": 334,
-  "last_interval_minutes": 131
+  "next_run_at": "2026-10-13T22:14:49.787600+09:00",
+  "total_sent_count": 335,
+  "last_interval_minutes": 127
 }
