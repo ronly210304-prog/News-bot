@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422"
+  ],
   "sent_date": "2026-10-14",
-  "next_run_at": "2026-10-13T22:14:49.787600+09:00",
-  "total_sent_count": 335,
-  "last_interval_minutes": 127
+  "next_run_at": "2026-10-14T09:46:02.163792+09:00",
+  "total_sent_count": 336,
+  "last_interval_minutes": 123
 }
