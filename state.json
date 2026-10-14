@@ -1,11 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422",
-    "https://www.investing.com/news/stock-market-news/galderma-to-buy-us-firm-zo-skin-health-for-15-billion-4948042",
-    "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97"
+    "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9"
   ],
-  "sent_date": "2026-10-14",
-  "next_run_at": "2026-10-14T23:43:50.756469+09:00",
-  "total_sent_count": 338,
-  "last_interval_minutes": 154
+  "sent_date": "2026-10-15",
+  "next_run_at": "2026-10-15T04:48:40.553316+09:00",
+  "total_sent_count": 339,
+  "last_interval_minutes": 163
 }
