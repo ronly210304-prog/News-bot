@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9",
-    "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4"
+    "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4",
+    "https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227"
   ],
   "sent_date": "2026-10-15",
-  "next_run_at": "2026-10-15T08:18:49.643136+09:00",
-  "total_sent_count": 340,
-  "last_interval_minutes": 159
+  "next_run_at": "2026-10-15T10:36:03.214437+09:00",
+  "total_sent_count": 341,
+  "last_interval_minutes": 130
 }
