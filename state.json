@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9"
+    "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9",
+    "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4"
   ],
   "sent_date": "2026-10-15",
-  "next_run_at": "2026-10-15T04:48:40.553316+09:00",
-  "total_sent_count": 339,
-  "last_interval_minutes": 163
+  "next_run_at": "2026-10-15T08:18:49.643136+09:00",
+  "total_sent_count": 340,
+  "last_interval_minutes": 159
 }
