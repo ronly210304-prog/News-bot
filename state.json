@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422"
+    "https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422",
+    "https://www.investing.com/news/stock-market-news/galderma-to-buy-us-firm-zo-skin-health-for-15-billion-4948042"
   ],
   "sent_date": "2026-10-14",
-  "next_run_at": "2026-10-14T09:46:02.163792+09:00",
-  "total_sent_count": 336,
-  "last_interval_minutes": 123
+  "next_run_at": "2026-10-14T17:33:22.892464+09:00",
+  "total_sent_count": 337,
+  "last_interval_minutes": 136
 }
