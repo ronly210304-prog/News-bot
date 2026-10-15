@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-sharply-4950549",
-    "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931"
+    "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931",
+    "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382"
   ],
   "sent_date": "2026-10-16",
-  "next_run_at": "2026-10-16T07:07:49.329304+09:00",
-  "total_sent_count": 345,
-  "last_interval_minutes": 157
+  "next_run_at": "2026-10-16T09:51:06.425133+09:00",
+  "total_sent_count": 346,
+  "last_interval_minutes": 131
 }
