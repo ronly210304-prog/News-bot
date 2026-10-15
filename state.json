@@ -1,13 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9",
-    "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4",
-    "https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227",
-    "https://www.investing.com/news/stock-market-news/asia-stocks-slump-as-chip-rout-deepens-after-hotter-us-inflation-4950421",
-    "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143"
+    "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-sharply-4950549"
   ],
-  "sent_date": "2026-10-15",
-  "next_run_at": "2026-10-15T23:16:06.211360+09:00",
-  "total_sent_count": 343,
-  "last_interval_minutes": 150
+  "sent_date": "2026-10-16",
+  "next_run_at": "2026-10-16T03:36:29.357913+09:00",
+  "total_sent_count": 344,
+  "last_interval_minutes": 166
 }
