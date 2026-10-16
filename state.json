@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382"
+    "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382",
+    "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7"
   ],
   "sent_date": "2026-10-17",
-  "next_run_at": "2026-10-17T05:41:35.395479+09:00",
-  "total_sent_count": 350,
-  "last_interval_minutes": 149
+  "next_run_at": "2026-10-17T08:15:38.663572+09:00",
+  "total_sent_count": 351,
+  "last_interval_minutes": 132
 }
