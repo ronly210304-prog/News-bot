@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344"
+    "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344",
+    "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab"
   ],
   "sent_date": "2026-10-18",
-  "next_run_at": "2026-10-18T06:04:24.697617+09:00",
-  "total_sent_count": 356,
-  "last_interval_minutes": 135
+  "next_run_at": "2026-10-18T08:09:41.208464+09:00",
+  "total_sent_count": 357,
+  "last_interval_minutes": 124
 }
