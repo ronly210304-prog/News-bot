@@ -1,14 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344",
-    "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab",
-    "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-    "https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
-    "https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
-    "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913"
+    "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67"
   ],
-  "sent_date": "2026-10-18",
-  "next_run_at": "2026-10-19T00:42:57.612549+09:00",
-  "total_sent_count": 361,
-  "last_interval_minutes": 128
+  "sent_date": "2026-10-19",
+  "next_run_at": "2026-10-19T03:57:27.785828+09:00",
+  "total_sent_count": 362,
+  "last_interval_minutes": 125
 }
