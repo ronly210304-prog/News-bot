@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377"
+    "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377",
+    "https://www.investing.com/news/stock-market-news/us-set-to-announce-certification-of-boeing-737-max-10-tuesday-sources-say-4958411"
   ],
   "sent_date": "2026-10-20",
-  "next_run_at": "2026-10-20T07:25:43.540856+09:00",
-  "total_sent_count": 367,
-  "last_interval_minutes": 177
+  "next_run_at": "2026-10-20T10:54:29.557595+09:00",
+  "total_sent_count": 368,
+  "last_interval_minutes": 175
 }
