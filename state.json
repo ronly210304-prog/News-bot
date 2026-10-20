@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377",
     "https://www.investing.com/news/stock-market-news/us-set-to-announce-certification-of-boeing-737-max-10-tuesday-sources-say-4958411",
-    "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-126-4958821"
+    "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-126-4958821",
+    "https://www.investing.com/news/stock-market-news/apm-terminals-hateco-sign-deal-to-study-vietnam-rail-terminals-93CH-4959832"
   ],
   "sent_date": "2026-10-20",
-  "next_run_at": "2026-10-20T17:43:35.299995+09:00",
-  "total_sent_count": 369,
-  "last_interval_minutes": 129
+  "next_run_at": "2026-10-20T23:08:50.162901+09:00",
+  "total_sent_count": 370,
+  "last_interval_minutes": 121
 }
