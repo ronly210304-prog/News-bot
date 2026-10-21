@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/reliances-ambani-meets-marco-rubio-in-jamnagar-93CH-4963766"
+    "https://www.investing.com/news/stock-market-news/reliances-ambani-meets-marco-rubio-in-jamnagar-93CH-4963766",
+    "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad"
   ],
   "sent_date": "2026-10-22",
-  "next_run_at": "2026-10-22T05:15:58.759907+09:00",
-  "total_sent_count": 376,
-  "last_interval_minutes": 171
+  "next_run_at": "2026-10-22T08:16:56.547361+09:00",
+  "total_sent_count": 377,
+  "last_interval_minutes": 153
 }
