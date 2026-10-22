@@ -1,13 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/reliances-ambani-meets-marco-rubio-in-jamnagar-93CH-4963766",
-    "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad",
-    "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38",
-    "https://www.investing.com/news/stock-market-news/a-brutal-october-for-asia-where-the-money-is-actually-going-and-what-it-knows-4964685",
-    "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c"
+    "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a"
   ],
-  "sent_date": "2026-10-22",
-  "next_run_at": "2026-10-22T23:32:47.079525+09:00",
-  "total_sent_count": 380,
-  "last_interval_minutes": 127
+  "sent_date": "2026-10-23",
+  "next_run_at": "2026-10-23T05:02:27.747569+09:00",
+  "total_sent_count": 381,
+  "last_interval_minutes": 159
 }
