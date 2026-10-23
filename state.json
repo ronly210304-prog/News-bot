@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21"
+    "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21",
+    "https://www.investing.com/news/stock-market-news/jetblue-creditors-working-with-restructuring-adviser-pjt-partners-wsj-reports-4970498"
   ],
   "sent_date": "2026-10-24",
-  "next_run_at": "2026-10-24T07:19:27.174422+09:00",
-  "total_sent_count": 386,
-  "last_interval_minutes": 126
+  "next_run_at": "2026-10-24T10:30:07.628025+09:00",
+  "total_sent_count": 387,
+  "last_interval_minutes": 128
 }
