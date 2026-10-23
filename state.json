@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21"
+  ],
   "sent_date": "2026-10-24",
-  "next_run_at": "2026-10-23T23:34:24.939541+09:00",
-  "total_sent_count": 385,
-  "last_interval_minutes": 150
+  "next_run_at": "2026-10-24T07:19:27.174422+09:00",
+  "total_sent_count": 386,
+  "last_interval_minutes": 126
 }
