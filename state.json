@@ -1,14 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21",
-    "https://www.investing.com/news/stock-market-news/jetblue-creditors-working-with-restructuring-adviser-pjt-partners-wsj-reports-4970498",
-    "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
-    "https://www.investing.com/news/stock-market-news/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-aipowered-cyberattacks-4970639",
-    "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78",
-    "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07"
+    "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f"
   ],
-  "sent_date": "2026-10-24",
-  "next_run_at": "2026-10-25T01:51:00.977750+09:00",
-  "total_sent_count": 391,
-  "last_interval_minutes": 130
+  "sent_date": "2026-10-25",
+  "next_run_at": "2026-10-25T05:03:09.518118+09:00",
+  "total_sent_count": 392,
+  "last_interval_minutes": 148
 }
