@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f",
     "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-    "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001"
+    "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+    "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023"
   ],
   "sent_date": "2026-10-25",
-  "next_run_at": "2026-10-25T11:58:15.096676+09:00",
-  "total_sent_count": 394,
-  "last_interval_minutes": 160
+  "next_run_at": "2026-10-25T16:54:06.533699+09:00",
+  "total_sent_count": 395,
+  "last_interval_minutes": 175
 }
