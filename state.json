@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d"
+    "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d",
+    "https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264"
   ],
   "sent_date": "2026-10-26",
-  "next_run_at": "2026-10-26T04:56:35.618450+09:00",
-  "total_sent_count": 398,
-  "last_interval_minutes": 159
+  "next_run_at": "2026-10-26T09:32:29.299069+09:00",
+  "total_sent_count": 399,
+  "last_interval_minutes": 145
 }
