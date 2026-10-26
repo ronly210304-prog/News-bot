@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d",
     "https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
-    "https://www.investing.com/news/stock-market-news/why-is-minimax-stock-sliding-today-93CH-4971381"
+    "https://www.investing.com/news/stock-market-news/why-is-minimax-stock-sliding-today-93CH-4971381",
+    "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db"
   ],
   "sent_date": "2026-10-26",
-  "next_run_at": "2026-10-26T16:57:27.971111+09:00",
-  "total_sent_count": 400,
-  "last_interval_minutes": 175
+  "next_run_at": "2026-10-26T22:01:27.884097+09:00",
+  "total_sent_count": 401,
+  "last_interval_minutes": 120
 }
