@@ -1,13 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/can-jetblue-still-avoid-bankruptcy-analysis-says-yes-but-it-wont-be-easy-4973352",
-    "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-138-4973799",
-    "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
-    "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-046-4974203",
-    "https://www.investing.com/news/stock-market-news/who-controls-powerful-ai-anthropic-has-a-plan-for-long-after-its-leaders-depart-4974806"
+    "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525"
   ],
-  "sent_date": "2026-10-27",
-  "next_run_at": "2026-10-27T22:32:20.527722+09:00",
-  "total_sent_count": 406,
-  "last_interval_minutes": 151
+  "sent_date": "2026-10-28",
+  "next_run_at": "2026-10-28T04:03:05.533524+09:00",
+  "total_sent_count": 407,
+  "last_interval_minutes": 150
 }
