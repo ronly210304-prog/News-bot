@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/can-jetblue-still-avoid-bankruptcy-analysis-says-yes-but-it-wont-be-easy-4973352",
-    "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-138-4973799"
+    "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-138-4973799",
+    "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007"
   ],
   "sent_date": "2026-10-27",
-  "next_run_at": "2026-10-27T09:14:47.207314+09:00",
-  "total_sent_count": 403,
-  "last_interval_minutes": 152
+  "next_run_at": "2026-10-27T12:30:41.698830+09:00",
+  "total_sent_count": 404,
+  "last_interval_minutes": 161
 }
