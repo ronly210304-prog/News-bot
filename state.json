@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525"
+    "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525",
+    "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d"
   ],
   "sent_date": "2026-10-28",
-  "next_run_at": "2026-10-28T04:03:05.533524+09:00",
-  "total_sent_count": 407,
-  "last_interval_minutes": 150
+  "next_run_at": "2026-10-28T08:37:18.450690+09:00",
+  "total_sent_count": 408,
+  "last_interval_minutes": 160
 }
