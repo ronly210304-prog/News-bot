@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525",
-    "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d"
+    "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d",
+    "https://www.investing.com/news/stock-market-news/sk-hynix-q3-profit-jumps-more-than-7fold-beats-forecasts-4977256"
   ],
   "sent_date": "2026-10-28",
-  "next_run_at": "2026-10-28T08:37:18.450690+09:00",
-  "total_sent_count": 408,
-  "last_interval_minutes": 160
+  "next_run_at": "2026-10-28T11:39:52.735156+09:00",
+  "total_sent_count": 409,
+  "last_interval_minutes": 150
 }
