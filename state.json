@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/amazon-earnings-watch-aws-growth-capex-and-margins-in-focus-93CH-4984933"
+    "https://www.investing.com/news/stock-market-news/amazon-earnings-watch-aws-growth-capex-and-margins-in-focus-93CH-4984933",
+    "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7"
   ],
   "sent_date": "2026-10-30",
-  "next_run_at": "2026-10-30T07:24:42.507492+09:00",
-  "total_sent_count": 417,
-  "last_interval_minutes": 155
+  "next_run_at": "2026-10-30T11:06:14.086909+09:00",
+  "total_sent_count": 418,
+  "last_interval_minutes": 146
 }
