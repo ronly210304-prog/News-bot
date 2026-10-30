@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/amazon-earnings-watch-aws-growth-capex-and-margins-in-focus-93CH-4984933",
     "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7",
-    "https://www.investing.com/news/stock-market-news/aspen-neuroscience-prices-ipo-at-15-per-share-on-nasdaq-432SI-4985722"
+    "https://www.investing.com/news/stock-market-news/aspen-neuroscience-prices-ipo-at-15-per-share-on-nasdaq-432SI-4985722",
+    "https://www.marketwatch.com/story/solidcore-founder-anne-mahlum-plans-enormous-10-bedroom-dream-home-032e0444"
   ],
   "sent_date": "2026-10-30",
-  "next_run_at": "2026-10-30T14:07:10.355891+09:00",
-  "total_sent_count": 419,
-  "last_interval_minutes": 132
+  "next_run_at": "2026-10-30T20:37:01.497532+09:00",
+  "total_sent_count": 420,
+  "last_interval_minutes": 149
 }
