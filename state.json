@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen-4988211"
+    "https://www.investing.com/news/stock-market-news/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen-4988211",
+    "https://www.investing.com/news/stock-market-news/sp-500-november-seasonality-historical-trends-and-this-years-context-93CH-4988560"
   ],
   "sent_date": "2026-10-31",
-  "next_run_at": "2026-10-31T03:43:45.291739+09:00",
-  "total_sent_count": 421,
-  "last_interval_minutes": 172
+  "next_run_at": "2026-10-31T07:33:50.516973+09:00",
+  "total_sent_count": 422,
+  "last_interval_minutes": 141
 }
