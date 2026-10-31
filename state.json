@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8"
+    "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8",
+    "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336"
   ],
   "sent_date": "2026-11-01",
-  "next_run_at": "2026-11-01T06:44:23.489664+09:00",
-  "total_sent_count": 427,
-  "last_interval_minutes": 171
+  "next_run_at": "2026-11-01T09:50:27.428690+09:00",
+  "total_sent_count": 428,
+  "last_interval_minutes": 172
 }
