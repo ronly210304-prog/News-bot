@@ -1,12 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
-    "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
-    "https://www.investing.com/news/stock-market-news/tesla-samsung-oppose-new-us-tariffs-on-vietnam-as-probe-deadline-nears-4989798",
-    "https://www.investing.com/news/stock-market-news/citi-initiates-vusion-at-buy-sees-84-upside-on-electronic-shelf-label-growth-4990084"
+    "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd"
   ],
-  "sent_date": "2026-11-02",
-  "next_run_at": "2026-11-02T20:06:06.705448+09:00",
-  "total_sent_count": 434,
-  "last_interval_minutes": 171
+  "sent_date": "2026-11-03",
+  "next_run_at": "2026-11-03T06:02:19.649348+09:00",
+  "total_sent_count": 435,
+  "last_interval_minutes": 160
 }
