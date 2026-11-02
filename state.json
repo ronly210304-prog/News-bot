@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
-    "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776"
+    "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
+    "https://www.investing.com/news/stock-market-news/tesla-samsung-oppose-new-us-tariffs-on-vietnam-as-probe-deadline-nears-4989798"
   ],
   "sent_date": "2026-11-02",
-  "next_run_at": "2026-11-02T09:36:20.884227+09:00",
-  "total_sent_count": 432,
-  "last_interval_minutes": 132
+  "next_run_at": "2026-11-02T12:57:40.778214+09:00",
+  "total_sent_count": 433,
+  "last_interval_minutes": 141
 }
