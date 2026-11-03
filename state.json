@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-sliding-today-93CH-4995743"
+    "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-sliding-today-93CH-4995743",
+    "https://www.investing.com/news/stock-market-news/fal-raises-13-billion-at-16-billion-valuation-on-demand--bloomberg-93CH-4996358"
   ],
   "sent_date": "2026-11-04",
-  "next_run_at": "2026-11-04T03:29:56.423232+09:00",
-  "total_sent_count": 438,
-  "last_interval_minutes": 178
+  "next_run_at": "2026-11-04T08:22:00.374407+09:00",
+  "total_sent_count": 439,
+  "last_interval_minutes": 127
 }
