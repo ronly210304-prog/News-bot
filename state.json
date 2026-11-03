@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd",
-    "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8"
+    "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8",
+    "https://www.investing.com/news/stock-market-news/after-banking-a-495-gain-a-new-list-of-ai-picks-for-november-is-now-live-4992228"
   ],
   "sent_date": "2026-11-03",
-  "next_run_at": "2026-11-03T12:28:34.367594+09:00",
-  "total_sent_count": 436,
-  "last_interval_minutes": 142
+  "next_run_at": "2026-11-03T19:47:27.565989+09:00",
+  "total_sent_count": 437,
+  "last_interval_minutes": 175
 }
