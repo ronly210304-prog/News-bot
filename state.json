@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd"
+    "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd",
+    "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8"
   ],
   "sent_date": "2026-11-03",
-  "next_run_at": "2026-11-03T06:02:19.649348+09:00",
-  "total_sent_count": 435,
-  "last_interval_minutes": 160
+  "next_run_at": "2026-11-03T12:28:34.367594+09:00",
+  "total_sent_count": 436,
+  "last_interval_minutes": 142
 }
