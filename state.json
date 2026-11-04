@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-sliding-today-93CH-4995743",
-    "https://www.investing.com/news/stock-market-news/fal-raises-13-billion-at-16-billion-valuation-on-demand--bloomberg-93CH-4996358"
+    "https://www.investing.com/news/stock-market-news/fal-raises-13-billion-at-16-billion-valuation-on-demand--bloomberg-93CH-4996358",
+    "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a"
   ],
   "sent_date": "2026-11-04",
-  "next_run_at": "2026-11-04T08:22:00.374407+09:00",
-  "total_sent_count": 439,
-  "last_interval_minutes": 127
+  "next_run_at": "2026-11-04T13:09:31.102077+09:00",
+  "total_sent_count": 440,
+  "last_interval_minutes": 169
 }
