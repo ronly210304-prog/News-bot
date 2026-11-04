@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-sliding-today-93CH-4995743",
     "https://www.investing.com/news/stock-market-news/fal-raises-13-billion-at-16-billion-valuation-on-demand--bloomberg-93CH-4996358",
-    "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a"
+    "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a",
+    "https://www.investing.com/news/stock-market-news/zeal-network-raises-2026-sales-guidance-after-q3-results-93CH-4997580"
   ],
   "sent_date": "2026-11-04",
-  "next_run_at": "2026-11-04T13:09:31.102077+09:00",
-  "total_sent_count": 440,
-  "last_interval_minutes": 169
+  "next_run_at": "2026-11-04T19:12:26.764761+09:00",
+  "total_sent_count": 441,
+  "last_interval_minutes": 155
 }
