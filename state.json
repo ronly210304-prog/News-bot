@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a"
+    "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a",
+    "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677"
   ],
   "sent_date": "2026-11-05",
-  "next_run_at": "2026-11-05T03:13:08.529532+09:00",
-  "total_sent_count": 442,
-  "last_interval_minutes": 148
+  "next_run_at": "2026-11-05T08:44:03.428865+09:00",
+  "total_sent_count": 443,
+  "last_interval_minutes": 134
 }
