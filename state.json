@@ -1,12 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a",
-    "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677",
-    "https://www.investing.com/news/stock-market-news/analysistrumps-midterm-drubbing-demonstrates-the-power-of-datacentre-opponents-4998061",
-    "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0"
+    "https://www.investing.com/news/stock-market-news/nasdaq-set-for-correction-as-investors-reassess-ai-spending-boom-5005046"
   ],
-  "sent_date": "2026-11-05",
-  "next_run_at": "2026-11-05T20:06:57.552622+09:00",
-  "total_sent_count": 445,
-  "last_interval_minutes": 158
+  "sent_date": "2026-11-06",
+  "next_run_at": "2026-11-06T04:45:20.530349+09:00",
+  "total_sent_count": 446,
+  "last_interval_minutes": 159
 }
