@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb"
+  ],
   "sent_date": "2026-11-07",
-  "next_run_at": "2026-11-06T20:50:42.959971+09:00",
-  "total_sent_count": 448,
-  "last_interval_minutes": 120
+  "next_run_at": "2026-11-07T09:01:24.374223+09:00",
+  "total_sent_count": 449,
+  "last_interval_minutes": 126
 }
