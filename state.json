@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb",
-    "https://www.investing.com/news/stock-market-news/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-5009711"
+    "https://www.investing.com/news/stock-market-news/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-5009711",
+    "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d"
   ],
   "sent_date": "2026-11-07",
-  "next_run_at": "2026-11-07T19:15:09.445263+09:00",
-  "total_sent_count": 450,
-  "last_interval_minutes": 172
+  "next_run_at": "2026-11-08T02:13:05.379839+09:00",
+  "total_sent_count": 451,
+  "last_interval_minutes": 180
 }
