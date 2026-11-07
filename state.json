@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6"
+    "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6",
+    "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010054"
   ],
   "sent_date": "2026-11-08",
-  "next_run_at": "2026-11-08T05:58:14.478074+09:00",
-  "total_sent_count": 452,
-  "last_interval_minutes": 133
+  "next_run_at": "2026-11-08T09:51:31.533307+09:00",
+  "total_sent_count": 453,
+  "last_interval_minutes": 153
 }
