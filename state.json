@@ -1,13 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6",
-    "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010054",
-    "https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
-    "https://www.investing.com/news/stock-market-news/what-are-the-ai-lab-compute-commitments-5010113",
-    "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3"
+    "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990"
   ],
-  "sent_date": "2026-11-08",
-  "next_run_at": "2026-11-09T02:27:59.883093+09:00",
-  "total_sent_count": 456,
-  "last_interval_minutes": 169
+  "sent_date": "2026-11-09",
+  "next_run_at": "2026-11-09T06:35:33.209801+09:00",
+  "total_sent_count": 457,
+  "last_interval_minutes": 149
 }
