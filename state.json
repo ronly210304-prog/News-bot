@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990",
-    "https://www.investing.com/news/stock-market-news/could-hbf-be-the-solution-to-the-memory-bottleneck-5010334"
+    "https://www.investing.com/news/stock-market-news/could-hbf-be-the-solution-to-the-memory-bottleneck-5010334",
+    "https://www.investing.com/news/stock-market-news/rbas-hunter-sees-limited-ai-productivity-gains-so-far-93CH-5010406"
   ],
   "sent_date": "2026-11-09",
-  "next_run_at": "2026-11-09T10:18:57.421935+09:00",
-  "total_sent_count": 458,
-  "last_interval_minutes": 149
+  "next_run_at": "2026-11-09T13:56:31.613023+09:00",
+  "total_sent_count": 459,
+  "last_interval_minutes": 168
 }
