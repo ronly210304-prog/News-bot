@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b",
-    "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861"
+    "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861",
+    "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e"
   ],
   "sent_date": "2026-11-10",
-  "next_run_at": "2026-11-10T14:33:45.782230+09:00",
-  "total_sent_count": 461,
-  "last_interval_minutes": 172
+  "next_run_at": "2026-11-10T21:47:52.373529+09:00",
+  "total_sent_count": 462,
+  "last_interval_minutes": 145
 }
