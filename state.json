@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd"
+    "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd",
+    "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446"
   ],
   "sent_date": "2026-11-12",
-  "next_run_at": "2026-11-12T05:09:33.008792+09:00",
-  "total_sent_count": 466,
-  "last_interval_minutes": 163
+  "next_run_at": "2026-11-12T11:03:36.126074+09:00",
+  "total_sent_count": 467,
+  "last_interval_minutes": 150
 }
