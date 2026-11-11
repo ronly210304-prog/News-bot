@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e",
-    "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e"
+    "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e",
+    "https://www.investing.com/news/stock-market-news/deutsche-bank-launches-digital-asset-custody-for-clients-93CH-5018110"
   ],
   "sent_date": "2026-11-11",
-  "next_run_at": "2026-11-11T14:08:54.820450+09:00",
-  "total_sent_count": 464,
-  "last_interval_minutes": 169
+  "next_run_at": "2026-11-11T20:43:33.598449+09:00",
+  "total_sent_count": 465,
+  "last_interval_minutes": 125
 }
