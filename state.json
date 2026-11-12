@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd",
     "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446",
-    "https://www.investing.com/news/stock-market-news/us-finalizing-rule-to-block-chinas-remote-ai-chip-access-the-information-5020288"
+    "https://www.investing.com/news/stock-market-news/us-finalizing-rule-to-block-chinas-remote-ai-chip-access-the-information-5020288",
+    "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c"
   ],
   "sent_date": "2026-11-12",
-  "next_run_at": "2026-11-12T16:06:13.091164+09:00",
-  "total_sent_count": 468,
-  "last_interval_minutes": 175
+  "next_run_at": "2026-11-13T00:18:00.170360+09:00",
+  "total_sent_count": 469,
+  "last_interval_minutes": 161
 }
