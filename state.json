@@ -1,11 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3",
-    "https://www.investing.com/news/stock-market-news/us-senate-banking-committee-chair-calls-on-jensen-huang-lutnick-to-testify-5023793",
-    "https://www.investing.com/news/stock-market-news/why-is-kumho-engineering--construction-stock-surging-today-93CH-5024330"
+    "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f"
   ],
-  "sent_date": "2026-11-13",
-  "next_run_at": "2026-11-13T19:08:06.711440+09:00",
-  "total_sent_count": 472,
+  "sent_date": "2026-11-14",
+  "next_run_at": "2026-11-14T02:59:11.926740+09:00",
+  "total_sent_count": 473,
   "last_interval_minutes": 131
 }
