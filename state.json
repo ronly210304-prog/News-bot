@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f"
+    "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f",
+    "https://www.investing.com/news/stock-market-news/us-congress-democrats-plot-musthave-victories-in-2027-5024779"
   ],
   "sent_date": "2026-11-14",
-  "next_run_at": "2026-11-14T02:59:11.926740+09:00",
-  "total_sent_count": 473,
-  "last_interval_minutes": 131
+  "next_run_at": "2026-11-14T09:18:29.615722+09:00",
+  "total_sent_count": 474,
+  "last_interval_minutes": 156
 }
