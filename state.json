@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393"
+    "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393",
+    "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80"
   ],
   "sent_date": "2026-11-15",
-  "next_run_at": "2026-11-15T02:00:05.782860+09:00",
-  "total_sent_count": 477,
-  "last_interval_minutes": 120
+  "next_run_at": "2026-11-15T06:46:16.174304+09:00",
+  "total_sent_count": 478,
+  "last_interval_minutes": 122
 }
