@@ -1,12 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f",
-    "https://www.investing.com/news/stock-market-news/us-congress-democrats-plot-musthave-victories-in-2027-5024779",
-    "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393",
-    "https://www.investing.com/news/stock-market-news/microsoft-outlook-teams-outage-eases-after-over-a-day-recovery-timeline-uncertain-5026486"
+    "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393"
   ],
-  "sent_date": "2026-11-14",
-  "next_run_at": "2026-11-14T19:19:39.096195+09:00",
-  "total_sent_count": 476,
-  "last_interval_minutes": 128
+  "sent_date": "2026-11-15",
+  "next_run_at": "2026-11-15T02:00:05.782860+09:00",
+  "total_sent_count": 477,
+  "last_interval_minutes": 120
 }
