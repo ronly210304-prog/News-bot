@@ -1,13 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393",
-    "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80",
-    "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
-    "https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628",
-    "https://www.investing.com/news/stock-market-news/irelands-ai-data-center-boom-faces-legal-challenge-over-power-demand-5027782"
+    "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469"
   ],
-  "sent_date": "2026-11-15",
-  "next_run_at": "2026-11-15T21:20:17.154076+09:00",
-  "total_sent_count": 481,
-  "last_interval_minutes": 140
+  "sent_date": "2026-11-16",
+  "next_run_at": "2026-11-16T04:16:29.745698+09:00",
+  "total_sent_count": 482,
+  "last_interval_minutes": 146
 }
