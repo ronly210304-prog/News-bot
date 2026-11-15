@@ -2,10 +2,11 @@
   "sent_urls_today": [
     "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393",
     "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80",
-    "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489"
+    "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
+    "https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628"
   ],
   "sent_date": "2026-11-15",
-  "next_run_at": "2026-11-15T10:45:16.703113+09:00",
-  "total_sent_count": 479,
-  "last_interval_minutes": 141
+  "next_run_at": "2026-11-15T14:23:39.751760+09:00",
+  "total_sent_count": 480,
+  "last_interval_minutes": 151
 }
