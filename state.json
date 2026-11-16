@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469",
-    "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
+    "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+    "https://www.investing.com/news/stock-market-news/australias-idp-rebuffs-blackstones-third-buyout-attempt-at-5645-million-valuation-5028181"
   ],
   "sent_date": "2026-11-16",
-  "next_run_at": "2026-11-16T08:47:20.744381+09:00",
-  "total_sent_count": 483,
-  "last_interval_minutes": 144
+  "next_run_at": "2026-11-16T12:41:49.391922+09:00",
+  "total_sent_count": 484,
+  "last_interval_minutes": 151
 }
