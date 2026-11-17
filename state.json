@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/european-shares-flat-as-nvidia-turmoil-lingers-and-markets-brace-for-ai-megatests-5028357"
+    "https://www.investing.com/news/stock-market-news/european-shares-flat-as-nvidia-turmoil-lingers-and-markets-brace-for-ai-megatests-5028357",
+    "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956"
   ],
   "sent_date": "2026-11-17",
-  "next_run_at": "2026-11-17T05:18:02.746591+09:00",
-  "total_sent_count": 486,
-  "last_interval_minutes": 160
+  "next_run_at": "2026-11-17T12:35:50.084952+09:00",
+  "total_sent_count": 487,
+  "last_interval_minutes": 152
 }
