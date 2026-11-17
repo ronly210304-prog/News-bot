@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/european-shares-flat-as-nvidia-turmoil-lingers-and-markets-brace-for-ai-megatests-5028357",
-    "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956"
+    "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956",
+    "https://www.investing.com/news/stock-market-news/why-is-avio-stock-surging-today-93CH-5032031"
   ],
   "sent_date": "2026-11-17",
-  "next_run_at": "2026-11-17T12:35:50.084952+09:00",
-  "total_sent_count": 487,
-  "last_interval_minutes": 152
+  "next_run_at": "2026-11-17T20:27:06.779734+09:00",
+  "total_sent_count": 488,
+  "last_interval_minutes": 137
 }
