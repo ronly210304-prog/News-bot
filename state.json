@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/nvidia-taps-heidrick--struggles-to-lead-ceo-search-wsj-reports-5033757",
-    "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154"
+    "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154",
+    "https://www.investing.com/news/stock-market-news/europe-shares-steady-after-nvidia-results--reels-from-steepest-drop-since-march-5034786"
   ],
   "sent_date": "2026-11-18",
-  "next_run_at": "2026-11-18T12:26:45.006569+09:00",
-  "total_sent_count": 490,
-  "last_interval_minutes": 137
+  "next_run_at": "2026-11-18T20:24:44.358883+09:00",
+  "total_sent_count": 491,
+  "last_interval_minutes": 174
 }
