@@ -1,11 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/nvidia-taps-heidrick--struggles-to-lead-ceo-search-wsj-reports-5033757",
-    "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154",
-    "https://www.investing.com/news/stock-market-news/europe-shares-steady-after-nvidia-results--reels-from-steepest-drop-since-march-5034786"
+    "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a"
   ],
-  "sent_date": "2026-11-18",
-  "next_run_at": "2026-11-18T20:24:44.358883+09:00",
-  "total_sent_count": 491,
-  "last_interval_minutes": 174
+  "sent_date": "2026-11-19",
+  "next_run_at": "2026-11-19T04:58:07.043259+09:00",
+  "total_sent_count": 492,
+  "last_interval_minutes": 151
 }
