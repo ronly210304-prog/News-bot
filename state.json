@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a",
-    "https://www.investing.com/news/stock-market-news/democrats-probe-whether-howardlutnick-helped-cantor-avoid-nvidia-losses-ft-reports-5035313"
+    "https://www.investing.com/news/stock-market-news/democrats-probe-whether-howardlutnick-helped-cantor-avoid-nvidia-losses-ft-reports-5035313",
+    "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"
   ],
   "sent_date": "2026-11-19",
-  "next_run_at": "2026-11-19T11:28:08.888781+09:00",
-  "total_sent_count": 493,
-  "last_interval_minutes": 180
+  "next_run_at": "2026-11-19T16:03:05.869179+09:00",
+  "total_sent_count": 494,
+  "last_interval_minutes": 163
 }
