@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533"
+    "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533",
+    "https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342"
   ],
   "sent_date": "2026-11-20",
-  "next_run_at": "2026-11-20T09:23:50.214464+09:00",
-  "total_sent_count": 496,
-  "last_interval_minutes": 156
+  "next_run_at": "2026-11-20T14:04:51.391089+09:00",
+  "total_sent_count": 497,
+  "last_interval_minutes": 141
 }
