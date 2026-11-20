@@ -1,11 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533",
-    "https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342",
-    "https://www.investing.com/news/stock-market-news/exclusivebeijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5040979"
+    "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-sliding-today-93CH-5042391"
   ],
-  "sent_date": "2026-11-20",
-  "next_run_at": "2026-11-20T22:29:21.517896+09:00",
-  "total_sent_count": 498,
-  "last_interval_minutes": 180
+  "sent_date": "2026-11-21",
+  "next_run_at": "2026-11-21T06:36:28.919125+09:00",
+  "total_sent_count": 499,
+  "last_interval_minutes": 173
 }
