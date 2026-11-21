@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6"
+    "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6",
+    "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817"
   ],
   "sent_date": "2026-11-22",
-  "next_run_at": "2026-11-22T03:04:27.979903+09:00",
-  "total_sent_count": 502,
-  "last_interval_minutes": 166
+  "next_run_at": "2026-11-22T08:00:06.520775+09:00",
+  "total_sent_count": 503,
+  "last_interval_minutes": 123
 }
