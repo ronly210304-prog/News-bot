@@ -1,7 +1,9 @@
 {
-  "sent_urls_today": [],
+  "sent_urls_today": [
+    "https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112"
+  ],
   "sent_date": "2026-11-23",
-  "next_run_at": "2026-11-22T12:10:34.155628+09:00",
-  "total_sent_count": 504,
-  "last_interval_minutes": 142
+  "next_run_at": "2026-11-23T08:21:00.675788+09:00",
+  "total_sent_count": 505,
+  "last_interval_minutes": 126
 }
