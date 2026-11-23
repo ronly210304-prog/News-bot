@@ -1,11 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112",
-    "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
-    "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a"
+    "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140"
   ],
-  "sent_date": "2026-11-23",
-  "next_run_at": "2026-11-23T20:55:38.730360+09:00",
-  "total_sent_count": 507,
-  "last_interval_minutes": 130
+  "sent_date": "2026-11-24",
+  "next_run_at": "2026-11-24T08:52:50.043236+09:00",
+  "total_sent_count": 508,
+  "last_interval_minutes": 127
 }
