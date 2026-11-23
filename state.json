@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112"
+    "https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112",
+    "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
   ],
   "sent_date": "2026-11-23",
-  "next_run_at": "2026-11-23T08:21:00.675788+09:00",
-  "total_sent_count": 505,
-  "last_interval_minutes": 126
+  "next_run_at": "2026-11-23T13:08:58.561337+09:00",
+  "total_sent_count": 506,
+  "last_interval_minutes": 147
 }
