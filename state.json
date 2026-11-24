@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140"
+    "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140",
+    "https://www.investing.com/news/stock-market-news/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup-5046991"
   ],
   "sent_date": "2026-11-24",
-  "next_run_at": "2026-11-24T08:52:50.043236+09:00",
-  "total_sent_count": 508,
-  "last_interval_minutes": 127
+  "next_run_at": "2026-11-24T17:02:53.314888+09:00",
+  "total_sent_count": 509,
+  "last_interval_minutes": 145
 }
