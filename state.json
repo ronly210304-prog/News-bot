@@ -1,11 +1,9 @@
 {
   "sent_urls_today": [
-    "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62",
-    "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
-    "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089"
+    "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325"
   ],
-  "sent_date": "2026-11-26",
-  "next_run_at": "2026-11-26T22:47:00.181225+09:00",
-  "total_sent_count": 514,
-  "last_interval_minutes": 157
+  "sent_date": "2026-11-27",
+  "next_run_at": "2026-11-27T07:13:40.269317+09:00",
+  "total_sent_count": 515,
+  "last_interval_minutes": 126
 }
