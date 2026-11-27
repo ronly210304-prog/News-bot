@@ -1,10 +1,11 @@
 {
   "sent_urls_today": [
     "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
-    "https://www.investing.com/news/stock-market-news/why-is-japan-tobacco-stock-surging-today-93CH-5052820"
+    "https://www.investing.com/news/stock-market-news/why-is-japan-tobacco-stock-surging-today-93CH-5052820",
+    "https://www.investing.com/news/stock-market-news/us-equity-funds-post-biggest-outflows-in-11-weeks-as-tech-rout-weighs-5053333"
   ],
   "sent_date": "2026-11-27",
-  "next_run_at": "2026-11-27T14:18:21.690666+09:00",
-  "total_sent_count": 516,
-  "last_interval_minutes": 150
+  "next_run_at": "2026-11-27T23:27:06.239493+09:00",
+  "total_sent_count": 517,
+  "last_interval_minutes": 177
 }
