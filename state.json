@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325"
+    "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
+    "https://www.investing.com/news/stock-market-news/why-is-japan-tobacco-stock-surging-today-93CH-5052820"
   ],
   "sent_date": "2026-11-27",
-  "next_run_at": "2026-11-27T07:13:40.269317+09:00",
-  "total_sent_count": 515,
-  "last_interval_minutes": 126
+  "next_run_at": "2026-11-27T14:18:21.690666+09:00",
+  "total_sent_count": 516,
+  "last_interval_minutes": 150
 }
