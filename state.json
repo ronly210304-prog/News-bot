@@ -1,9 +1,10 @@
 {
   "sent_urls_today": [
-    "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314"
+    "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
+    "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097"
   ],
   "sent_date": "2026-11-28",
-  "next_run_at": "2026-11-28T07:37:35.899228+09:00",
-  "total_sent_count": 518,
-  "last_interval_minutes": 148
+  "next_run_at": "2026-11-28T13:59:52.714425+09:00",
+  "total_sent_count": 519,
+  "last_interval_minutes": 141
 }
